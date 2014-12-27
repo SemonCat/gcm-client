@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/exploded-aar/gcm-client/userFeedbackSDK/unspecified/res/values-iw/values.xml -->
+    <eat-comment/>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">%1$s אוהב את הנושא הזה</item>
+        <item quantity="other">%1$s אוהבים את הנושא הזה</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">נושא</item>
+        <item quantity="other">נושאים</item>
+    </plurals>
+    <plurals name="uv_articles">
+        <item quantity="one">מאמר</item>
+        <item quantity="other">מאמרים</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">הערה</item>
+        <item quantity="other">הערות</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="one">רעיון</item>
+        <item quantity="other">רעיונות</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s רוצה את הרעיון הזה</item>
+        <item quantity="other">%1$s רוצים את הרעיון הזה</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">אדם</item>
+        <item quantity="other">אנשים</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">מנוי</item>
+        <item quantity="other">מנויים</item>
+    </plurals>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-iw/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"נווט לדף הבית"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"‏%1$s‏, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"‏%1$s‏, %2$s‏, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"נווט למעלה"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"עוד אפשרויות"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"בוצע"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"ראה הכל"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"בחר אפליקציה"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"מחק שאילתה"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"שאילתת חיפוש"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"חפש"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"שלח שאילתה"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"חיפוש קולי"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"שתף עם"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"‏שתף עם %s"</string>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-iw/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"‏אפליקציה מסוימת דורשת עדכון לאפליקציה Android Wear."</string>
+    <string msgid="3046420540094071256" name="common_android_wear_update_text">"‏אפליקציה זו לא תפעל עד שתעדכן את האפליקציה Android Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"‏עדכון Android Wear"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"‏הפעל את שירותי Google Play"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"‏אפליקציה זו לא תעבוד אם לא תפעיל את שירותי Google Play."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"‏הפעלת שירותי Google Play"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"התבקשה על ידי <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"‏קבל את שירותי Google Play"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"‏אפליקציה זו לא תפעל ללא שירותי Google Play, החסרים בטלפון שלך."</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"‏אפליקציה זו לא תפעל ללא שירותי Google Play, החסרים בטאבלט שלך."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"‏קבל את שירותי Google Play"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"החשבון שצוין לא קיים במכשיר זה. בחר חשבון אחר."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"חשבון לא חוקי"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"‏קיימת אפליקציה המחייבת הפעלה של שירותי Google Play."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"‏דרוש חיבור נתונים כדי להתחבר לשירותי Google Play."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"שגיאת רשת."</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"‏קיימת אפליקציה המחייבת התקנה של שירותי Google Play."</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"‏קיימת אפליקציה המחייבת עדכון עבור שירותי Google Play."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"‏שגיאה בשירותי Google Play"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"‏בעיה לא ידועה בשירותי Google Play."</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"‏שירותי Google Play, שחלק מהאפליקציות שלך מתבססות עליהם, אינם נתמכים על ידי המכשיר שברשותך. צור קשר עם היצרן לקבלת סיוע."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"‏שירותי Google Play"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"עדכן"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"‏אפליקציה זו לא תפעל אם לא תעדכן את שירותי Google Play."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"‏עדכון שירותי Google Play"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"פתח בטלפון"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"היכנס"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"‏היכנס באמצעות Google"</string>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/exploded-aar/gcm-client/userFeedbackSDK/unspecified/res/values-iw/values.xml -->
+    <eat-comment/>
+    <string name="uf_sdk_faq">שאלות נפוצות</string>
+    <string name="uf_sdk_feedback_and_help">משוב ועזרה</string>
+    <string name="uf_sdk_help">עזרה</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">הטיוטה שלך לא תישמר. האם ברצונך למחוק אותה בכל מקרה?</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">למחוק את התגובה?</string>
+    <string name="uf_sdk_msg_subscribe">הודעת סטטוס של הנושא תישלח לך בדוא"ל.</string>
+    <string name="uf_sdk_msg_subscribe_success">ההרשמה הצליחה</string>
+    <string name="uf_sdk_msg_ticket_created">המשוב שלך הועבר בהצלחה -ASUS</string>
+    <string name="uf_sdk_msg_topic_created">הפרסום הצליח</string>
+    <string name="uf_sdk_msg_unsubscribe">ביטול ההרשמה הצליח</string>
+    <string name="uf_sdk_name_hint">הזן שם</string>
+    <string name="uf_sdk_network_error">אין חיבור אינטרנט, בדוק את הגדרות הרשת.</string>
+    <string name="uf_sdk_publish_an_topic">פרסם נושא חדש</string>
+    <string name="uf_sdk_send_feedback">שלח משוב</string>
+    <string name="uf_sdk_submit_topic">פרסם</string>
+    <string name="uf_sdk_subscribe_dialog_title">הירשם לנושא זה</string>
+    <string name="uf_sdk_title_topic">נושא</string>
+    <string name="uf_sdk_topic">נושא</string>
+    <string name="uf_sdk_topic_description_heading">תיאור</string>
+    <string name="uf_sdk_topic_description_hint">תאר את הנושא באופן מפורט</string>
+    <string name="uf_sdk_topic_filter">נושאים</string>
+    <string name="uf_sdk_topic_form_help">כשאתה מפרסם נושא בפורום של משתמשים, משתמשים אחרים יוכלו להירשם ולהגיב עליו. כשצוות הפיתוח של ASUS מגיב לנושא, תקבל הודעה בדוא"ל..</string>
+    <string name="uf_sdk_topic_form_title">פרסם נושא חדש</string>
+    <string name="uf_sdk_topic_text_heading">פורום</string>
+    <string name="uf_sdk_topic_text_hint">הקלד את כותרת הנושא...</string>
+    <string name="uf_sdk_topic_title">שם</string>
+    <string name="uf_sdk_unhelpful_article_message_question">האם ברצונך לשלוח משוב לצוות הפיתוח של ASUS?</string>
+    <string name="uf_sdk_user_forum">פורום משתמשים</string>
+    <string name="uv_admin_response_format">תגובת מנהל המערכת: %1$s</string>
+    <string name="uv_all_articles">כל המאמרים</string>
+    <string name="uv_all_results_filter">הכל</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article">מאמר</string>
+    <string name="uv_article_browse_question">האם מאמר זה מועיל?</string>
+    <string name="uv_article_instant_answer_question">האם מאמר זה מועיל?</string>
+    <string name="uv_articles_filter">מאמרים</string>
+    <string name="uv_cancel">ביטול</string>
+    <string name="uv_category">קטגוריה</string>
+    <string name="uv_close">סגור</string>
+    <string name="uv_comment_hint">הזן תגובה</string>
+    <string name="uv_confirm">אישור</string>
+    <string name="uv_contact_continue_button">אני עדיין רוצה לשלוח הודעה</string>
+    <string name="uv_contact_hint">הזן את השאלה או המשוב</string>
+    <string name="uv_contact_us">צור קשר</string>
+    <string name="uv_display_name">שם משתמש</string>
+    <string name="uv_email_address">כתובת דוא"ל</string>
+    <string name="uv_email_address_hint">your@email.com (חובה)</string>
+    <string name="uv_error">שגיאה</string>
+    <string name="uv_failed_signin_error">כתובת הדוא"ל או הסיסמה שגויים</string>
+    <string name="uv_feedback_forum">פורום משוב</string>
+    <string name="uv_forgot_password">שכחתי את הסיסמה</string>
+    <string name="uv_helpful_article_message_question">האם עדיין ברצונך לשלוח הודעה?</string>
+    <string name="uv_i_want_this">אני רוצה את זה!</string>
+    <string name="uv_idea">רעיון</string>
+    <string name="uv_idea_description_heading">תאר את הרעיון שלך בפירוט</string>
+    <string name="uv_idea_description_hint">(אופציונלי)</string>
+    <string name="uv_idea_form_help">כשאתה מפרסם רעיון בפורום שלנו, אנשים אחרים יוכלו להירשם אליו ולכתוב תגובות. כשאנו מגיבים לרעיון, תקבל הודעה.</string>
+    <string name="uv_idea_form_title">פרסם רעיון</string>
+    <string name="uv_idea_text_heading">אני מציע לך...</string>
+    <string name="uv_idea_text_hint">הזן את הרעיון שלך...</string>
+    <string name="uv_ideas_filter">רעיונות</string>
+    <string name="uv_knowledge_base">מרכז מידע</string>
+    <string name="uv_loading">טוען...</string>
+    <string name="uv_matching_articles">מאמרים תואמים</string>
+    <string name="uv_matching_articles_and_ideas">מאמרים ורעיונות תואמים</string>
+    <string name="uv_matching_ideas">רעיונות תואמים</string>
+    <string name="uv_menu_search">חיפוש</string>
+    <string name="uv_msg_bad_email_format">הזן את כתובת דוא"ל החוקית.</string>
+    <string name="uv_msg_comment_posted">התגובה שלך פורסמה</string>
+    <string name="uv_msg_confirm_discard_idea">האם אתה בטוח שברצונך למחוק רעיון זה?</string>
+    <string name="uv_msg_confirm_discard_message">האם אתה בטוח שברצונך למחוק את ההודעה?</string>
+    <string name="uv_msg_custom_fields_validation">מלא את השדות הנחוצים.</string>
+    <string name="uv_msg_forgot_password">הודעת דוא"ל עבור סיסמה שנשכחה נשלחה</string>
+    <string name="uv_msg_idea_created">הרעיון שלך נוצר</string>
+    <string name="uv_msg_subscribe">אנו נעדכן אותך בהתקדמות הרעיון הזה.</string>
+    <string name="uv_msg_subscribe_success">נרשמת לרעיון זה.</string>
+    <string name="uv_msg_ticket_created">ההודעה שלך נשלחה</string>
+    <string name="uv_msg_unsubscribe">הרשמתך לרעיון זה בוטלה.</string>
+    <string name="uv_msg_user_identity_validation">הזן את כתובת הדוא"ל שלך</string>
+    <string name="uv_name_hint">"אנונימי"</string>
+    <string name="uv_network_error">אירעה שגיאה בחיבור ל-UserVoice</string>
+    <string name="uv_nevermind">לא משנה</string>
+    <string name="uv_new_comment">תגובה חדשה</string>
+    <string name="uv_next">הבא</string>
+    <string name="uv_no">לא</string>
+    <string name="uv_none_of_these_help">אף אחד מאלה אינו עוזר</string>
+    <string name="uv_password">סיסמה</string>
+    <string name="uv_password_dialog_title">הזן את הסיסמה</string>
+    <string name="uv_portal_title">עזרה</string>
+    <string name="uv_post_a_comment">פרסם תגובה</string>
+    <string name="uv_post_an_idea">פרסם רעיון</string>
+    <string name="uv_post_comment">פרסם תגובה</string>
+    <string name="uv_post_idea_continue_button">אני עדיין רוצה לפרסם את הרעיון שלי</string>
+    <string name="uv_posted_by_format">פורסם על ידי %1$s ב-%2$s</string>
+    <string name="uv_powered_by_uservoice">מופעל על ידי UserVoice</string>
+    <string name="uv_ranked">מדורג %1$s</string>
+    <string name="uv_remove_votes">הסר הצבעות</string>
+    <string name="uv_select_none">(ללא)</string>
+    <string name="uv_select_one">בחר אחד</string>
+    <string name="uv_send_message">שלח הודעה</string>
+    <string name="uv_signin_dialog_ok">היכנס</string>
+    <string name="uv_signin_dialog_title">היכנס</string>
+    <string name="uv_status_format">מצב משפחתי: %1$s</string>
+    <string name="uv_submit_idea">שלח רעיון</string>
+    <string name="uv_subscribe">מנוי</string>
+    <string name="uv_subscribe_dialog_title">הירשם לרעיון זה</string>
+    <string name="uv_suggestion_instant_answer_question">האם רעיון זה מועיל?</string>
+    <string name="uv_thanks">תודה!</string>
+    <string name="uv_title_idea">רעיון</string>
+    <string name="uv_unhelpful_article_message_question">האם ברצונך לשלוח לנו הודעה?</string>
+    <string name="uv_value">ערך</string>
+    <string name="uv_very_yes">כן!</string>
+    <string name="uv_yes">כן</string>
+    <string name="uv_your_email_address">כתובת דוא"ל שלך</string>
+    <string name="uv_your_name">שם</string>
+</resources>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/userFeedbackSDK/src/main/res/values-zh-rCN/asus_strings.xml -->
+    <eat-comment/>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">%1$s 个人赞了这个主题</item>
+        <item quantity="other">%1$s 个人赞了这个主题</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">主题</item>
+        <item quantity="other">主题</item>
+    </plurals>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/userFeedbackSDK/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <plurals name="uv_articles">
+        <item quantity="one">文章</item>
+        <item quantity="other">文章</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">评论</item>
+        <item quantity="other">评论</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="one">意见</item>
+        <item quantity="other">意见</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s 喜欢这个意见</item>
+        <item quantity="other">%1$s 喜欢这个意见</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">人</item>
+        <item quantity="other">人</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">订阅者</item>
+        <item quantity="other">订阅者</item>
+    </plurals>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/userFeedbackSDK/src/main/res/values-zh-rCN/asus_strings.xml -->
+    <eat-comment/>
+    <string name="uf_sdk_faq">常见问题</string>
+    <string name="uf_sdk_feedback_and_help">意见与协助</string>
+    <string name="uf_sdk_help">协助</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">您的草稿将不会被保存。确定要取消发布吗？</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">取消发布？</string>
+    <string name="uf_sdk_msg_subscribe">系统会自动发送所订阅主题的更新通知到您的电子邮箱。</string>
+    <string name="uf_sdk_msg_subscribe_success">订阅成功</string>
+    <string name="uf_sdk_msg_ticket_created">已将您的意见发送给华硕</string>
+    <string name="uf_sdk_msg_topic_created">发布成功</string>
+    <string name="uf_sdk_msg_unsubscribe">取消订阅成功</string>
+    <string name="uf_sdk_name_hint">输入您的姓名</string>
+    <string name="uf_sdk_network_error">无网络连接，请检查您的网络设置。</string>
+    <string name="uf_sdk_publish_an_topic">发布新主题</string>
+    <string name="uf_sdk_send_feedback">传送意见</string>
+    <string name="uf_sdk_submit_topic">发布</string>
+    <string name="uf_sdk_subscribe_dialog_title">订阅此主题</string>
+    <string name="uf_sdk_title_topic">主题</string>
+    <string name="uf_sdk_topic">主题</string>
+    <string name="uf_sdk_topic_description_heading">说明</string>
+    <string name="uf_sdk_topic_description_hint">详细描述您想讨论的主题</string>
+    <string name="uf_sdk_topic_filter">主题</string>
+    <string name="uf_sdk_topic_form_help">当您在用户讨论区发布主题时，其他用户将可以订阅或评论您的主题帖。此外，若华硕研发团队回复了您的主题，系统会发送电子邮件通知您。</string>
+    <string name="uf_sdk_topic_form_title">发布新主题</string>
+    <string name="uf_sdk_topic_text_heading">讨论区</string>
+    <string name="uf_sdk_topic_text_hint">输入您的主题标题...</string>
+    <string name="uf_sdk_topic_title">标题</string>
+    <string name="uf_sdk_unhelpful_article_message_question">您是否要提供意见给华硕研发团队？</string>
+    <string name="uf_sdk_user_forum">用户讨论区</string>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/userFeedbackSDK/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="uv_admin_response_format">管理员回应：%1$s</string>
+    <string name="uv_all_articles">所有文章</string>
+    <string name="uv_all_results_filter">全部</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article">文章</string>
+    <string name="uv_article_browse_question">这篇文章对您有帮助吗？</string>
+    <string name="uv_article_instant_answer_question">这篇文章对您有帮助吗？</string>
+    <string name="uv_articles_filter">文章</string>
+    <string name="uv_cancel">取消</string>
+    <string name="uv_category">分类</string>
+    <string name="uv_close">关闭</string>
+    <string name="uv_comment_hint">输入您的评论</string>
+    <string name="uv_confirm">确认</string>
+    <string name="uv_contact_continue_button">我仍然想发送信息</string>
+    <string name="uv_contact_hint">输入您的问题或是意见反馈</string>
+    <string name="uv_contact_us">联系我们</string>
+    <string name="uv_display_name">显示名称</string>
+    <string name="uv_email_address">Email 邮箱</string>
+    <string name="uv_email_address_hint">your@email.com（必填）</string>
+    <string name="uv_error">错误</string>
+    <string name="uv_failed_signin_error">Email 或密码错误</string>
+    <string name="uv_feedback_forum">意见反馈论坛</string>
+    <string name="uv_forgot_password">忘记密码</string>
+    <string name="uv_helpful_article_message_question">您仍然要发送信息吗？</string>
+    <string name="uv_i_want_this">我想要这个！</string>
+    <string name="uv_idea">意见</string>
+    <string name="uv_idea_description_heading">更详细地描述您的意见</string>
+    <string name="uv_idea_description_hint">（选填）</string>
+    <string name="uv_idea_form_help">当您发布一条意见到我们的论坛，其他人可以订阅或者进行评论。当我们回复此意见时，您会随即收到通知。</string>
+    <string name="uv_idea_form_title">发布意见</string>
+    <string name="uv_idea_text_heading">我建议您...</string>
+    <string name="uv_idea_text_hint">输入意见...</string>
+    <string name="uv_ideas_filter">意见</string>
+    <string name="uv_knowledge_base">知识库</string>
+    <string name="uv_loading">正在读取...</string>
+    <string name="uv_matching_articles">符合的文章</string>
+    <string name="uv_matching_articles_and_ideas">符合的文章和意见</string>
+    <string name="uv_matching_ideas">符合的意见</string>
+    <string name="uv_menu_search">搜索</string>
+    <string name="uv_msg_bad_email_format">请输入有效的 Email 邮箱。</string>
+    <string name="uv_msg_comment_posted">您的评论一经发布</string>
+    <string name="uv_msg_confirm_discard_idea">您确定要舍弃您的意见?</string>
+    <string name="uv_msg_confirm_discard_message">您确定要舍弃您的信息？</string>
+    <string name="uv_msg_custom_fields_validation">请输入所有必填栏位。</string>
+    <string name="uv_msg_forgot_password">忘记密码通知邮件已经送出</string>
+    <string name="uv_msg_idea_created">您的意见已经发布</string>
+    <string name="uv_msg_subscribe">我们会通知您这个意见的处理进度。</string>
+    <string name="uv_msg_subscribe_success">您已经订阅了这个意见。</string>
+    <string name="uv_msg_ticket_created">您的信息已发送</string>
+    <string name="uv_msg_unsubscribe">您已经取消订阅了这个意见。</string>
+    <string name="uv_msg_user_identity_validation">请输入您的 Email 邮箱</string>
+    <string name="uv_name_hint">“匿名”</string>
+    <string name="uv_network_error">连接到 UserVoice 时发生错误</string>
+    <string name="uv_nevermind">没关系</string>
+    <string name="uv_new_comment">新评论</string>
+    <string name="uv_next">下一页</string>
+    <string name="uv_no">否</string>
+    <string name="uv_none_of_these_help">这些内容没有帮助</string>
+    <string name="uv_password">密码</string>
+    <string name="uv_password_dialog_title">请输入您的密码</string>
+    <string name="uv_portal_title">帮助</string>
+    <string name="uv_post_a_comment">发表一条评论</string>
+    <string name="uv_post_an_idea">发布一个意见</string>
+    <string name="uv_post_comment">发布评论</string>
+    <string name="uv_post_idea_continue_button">我仍然想发布我的意见</string>
+    <string name="uv_posted_by_format">由 %1$s 在 %2$s 发布</string>
+    <string name="uv_powered_by_uservoice">Powered by UserVoice</string>
+    <string name="uv_ranked">Ranked %1$s</string>
+    <string name="uv_remove_votes">移除投票</string>
+    <string name="uv_select_none">（无）</string>
+    <string name="uv_select_one">请选择</string>
+    <string name="uv_send_message">发送信息</string>
+    <string name="uv_signin_dialog_ok">登录</string>
+    <string name="uv_signin_dialog_title">登录</string>
+    <string name="uv_status_format">状态：%1$s</string>
+    <string name="uv_submit_idea">提交意见</string>
+    <string name="uv_subscribe">订阅</string>
+    <string name="uv_subscribe_dialog_title">订阅此意见</string>
+    <string name="uv_suggestion_instant_answer_question">这个意见对您有帮助吗？</string>
+    <string name="uv_thanks">谢谢！</string>
+    <string name="uv_title_idea">意见</string>
+    <string name="uv_unhelpful_article_message_question">您是否愿意发送信息给我们？</string>
+    <string name="uv_value">值</string>
+    <string name="uv_very_yes">是！</string>
+    <string name="uv_yes">是</string>
+    <string name="uv_your_email_address">您的 Email 邮箱</string>
+    <string name="uv_your_name">您的姓名</string>
+</resources>

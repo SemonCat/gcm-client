@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<View xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/uv_divider"
+    android:layout_width="match_parent"
+    android:layout_height="1px"
+    android:background="#20000000" />
+<!-- From: file:/Users/SemonCat/Desktop/gcm-client/userFeedbackSDK/src/main/res/layout/uv_divider.xml --><!-- From: file:/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/exploded-aar/gcm-client/userFeedbackSDK/unspecified/res/layout/uv_divider.xml -->

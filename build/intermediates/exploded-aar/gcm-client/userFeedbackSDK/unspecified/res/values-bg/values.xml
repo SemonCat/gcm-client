@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/userFeedbackSDK/src/main/res/values-bg/asus_strings.xml -->
+    <eat-comment/>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">%1$s харесва тази тема</item>
+        <item quantity="other">%1$s харесват тази тема</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">тема</item>
+        <item quantity="other">теми</item>
+    </plurals>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/userFeedbackSDK/src/main/res/values-bg/string.xml -->
+    <eat-comment/>
+    <plurals name="uv_articles">
+        <item quantity="one">статия</item>
+        <item quantity="other">статии</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">коментар</item>
+        <item quantity="other">коментари</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="one">идея</item>
+        <item quantity="other">идеи</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s иска тази идея</item>
+        <item quantity="other">%1$s искат тази идея</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">лице</item>
+        <item quantity="other">хора</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">абонат</item>
+        <item quantity="other">абонати</item>
+    </plurals>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/userFeedbackSDK/src/main/res/values-bg/asus_strings.xml -->
+    <eat-comment/>
+    <string name="uf_sdk_faq">Често задавани въпроси</string>
+    <string name="uf_sdk_feedback_and_help">Обратна връзка и помощ</string>
+    <string name="uf_sdk_help">Помощ</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">Вашата чернова няма да бъде записана. Желаете ли все пак да я изтриете?</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">Изтриване на публикация?</string>
+    <string name="uf_sdk_msg_subscribe">По имейл ще получите абонамент за известяване за състоянието на темата.</string>
+    <string name="uf_sdk_msg_subscribe_success">Успешно абониране</string>
+    <string name="uf_sdk_msg_ticket_created">Вашата обратна връзка е успешно изпратена на ASUS</string>
+    <string name="uf_sdk_msg_topic_created">Успешно публикуване</string>
+    <string name="uf_sdk_msg_unsubscribe">Успешно прекратяване на абонамента</string>
+    <string name="uf_sdk_name_hint">Въведете името си</string>
+    <string name="uf_sdk_network_error">Няма интернет връзка, проверете своите мрежови настройки.</string>
+    <string name="uf_sdk_publish_an_topic">Публикуване на нова тема</string>
+    <string name="uf_sdk_send_feedback">Изпращане на обратна връзка</string>
+    <string name="uf_sdk_submit_topic">Публикуване</string>
+    <string name="uf_sdk_subscribe_dialog_title">Абониране за тази тема</string>
+    <string name="uf_sdk_title_topic">Тема</string>
+    <string name="uf_sdk_topic">Тема</string>
+    <string name="uf_sdk_topic_description_heading">Описание</string>
+    <string name="uf_sdk_topic_description_hint">Опишете подробно темата</string>
+    <string name="uf_sdk_topic_filter">ТЕМИ</string>
+    <string name="uf_sdk_topic_form_help">Когато публикувате тема в потребителския форум, други потребители ще могат да се абонират за нея и да я коментират. Ще бъдете уведомени чрез имейл, когато екипът разработчици на ASUS отговори на темата.</string>
+    <string name="uf_sdk_topic_form_title">Публикуване на нова тема</string>
+    <string name="uf_sdk_topic_text_heading">Форум</string>
+    <string name="uf_sdk_topic_text_hint">Въведете заглавието на Вашата тема...</string>
+    <string name="uf_sdk_topic_title">Заглавие</string>
+    <string name="uf_sdk_unhelpful_article_message_question">Искате ли да изпратите обратна връзка на екипа разработчици на ASUS?</string>
+    <string name="uf_sdk_user_forum">Потребителски форум</string>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/userFeedbackSDK/src/main/res/values-bg/string.xml -->
+    <eat-comment/>
+    <string name="uv_admin_response_format">Отговор на администратора: %1$s</string>
+    <string name="uv_all_articles">Всички статии</string>
+    <string name="uv_all_results_filter">ВСИЧКИ</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article">Статия</string>
+    <string name="uv_article_browse_question">Полезна ли беше статията?</string>
+    <string name="uv_article_instant_answer_question">Полезна ли е тази статия?</string>
+    <string name="uv_articles_filter">СТАТИИ</string>
+    <string name="uv_cancel">Cancel (Отказ)</string>
+    <string name="uv_category">Категория</string>
+    <string name="uv_close">Затвори</string>
+    <string name="uv_comment_hint">Въведете своя коментар</string>
+    <string name="uv_confirm">Confirm (Потвърди)</string>
+    <string name="uv_contact_continue_button">Все още искам да изпратя съобщение</string>
+    <string name="uv_contact_hint">Въведете своя въпрос или обратна връзка</string>
+    <string name="uv_contact_us">Свържете се с нас</string>
+    <string name="uv_display_name">Username (Потребителско име)</string>
+    <string name="uv_email_address">Имейл адрес</string>
+    <string name="uv_email_address_hint">your@email.com (задължително поле)</string>
+    <string name="uv_error">Грешка</string>
+    <string name="uv_failed_signin_error">Грешен имейл или грешна парола</string>
+    <string name="uv_feedback_forum">Форум за обратна връзка</string>
+    <string name="uv_forgot_password">Забравена парола</string>
+    <string name="uv_helpful_article_message_question">Все още ли искате да изпратите съобщение?</string>
+    <string name="uv_i_want_this">Искам това!</string>
+    <string name="uv_idea">Идея</string>
+    <string name="uv_idea_description_heading">Опишете идеята си с повече подробности</string>
+    <string name="uv_idea_description_hint">(като опция)</string>
+    <string name="uv_idea_form_help">Когато публикувате идея в нашия форум, други ще могат да се абонират за нея и да я коментират. Ще бъдете известени, когато отговорим на идеята.</string>
+    <string name="uv_idea_form_title">Публикуване на идея</string>
+    <string name="uv_idea_text_heading">Предлагам да...</string>
+    <string name="uv_idea_text_hint">Въведете своята идея...</string>
+    <string name="uv_ideas_filter">ИДЕИ</string>
+    <string name="uv_knowledge_base">База от знания</string>
+    <string name="uv_loading">Зареждане...</string>
+    <string name="uv_matching_articles">Съвпадащи статии</string>
+    <string name="uv_matching_articles_and_ideas">Съвпадащи статии и идеи</string>
+    <string name="uv_matching_ideas">Съвпадащи идеи</string>
+    <string name="uv_menu_search">Търсене</string>
+    <string name="uv_msg_bad_email_format">Въведете валиден имейл адрес.</string>
+    <string name="uv_msg_comment_posted">Вашият коментар е публикуван</string>
+    <string name="uv_msg_confirm_discard_idea">Наистина ли искате да отхвърлите тази идея?</string>
+    <string name="uv_msg_confirm_discard_message">Сигурни ли сте, че искате да отхвърлите Вашето съобщение?</string>
+    <string name="uv_msg_custom_fields_validation">Попълнете всички необходими полета.</string>
+    <string name="uv_msg_forgot_password">Изпратен е имейл за забравена парола</string>
+    <string name="uv_msg_idea_created">Вашата идея беше създадена</string>
+    <string name="uv_msg_subscribe">Ще Ви изпратим новини за прогреса на тази идея.</string>
+    <string name="uv_msg_subscribe_success">Абонирани сте за тази идея.</string>
+    <string name="uv_msg_ticket_created">Вашето съобщение беше изпратено</string>
+    <string name="uv_msg_unsubscribe">Прекратили сте абонамента си за тази идея.</string>
+    <string name="uv_msg_user_identity_validation">Въведете своя имейл адрес</string>
+    <string name="uv_name_hint">"Анонимно"</string>
+    <string name="uv_network_error">Има грешка при свързване към UserVoice</string>
+    <string name="uv_nevermind">Няма значение</string>
+    <string name="uv_new_comment">Нов коментар</string>
+    <string name="uv_next">Напред</string>
+    <string name="uv_no">No (Не)</string>
+    <string name="uv_none_of_these_help">Нищо не помогна</string>
+    <string name="uv_password">Парола</string>
+    <string name="uv_password_dialog_title">Въведете своята парола</string>
+    <string name="uv_portal_title">Помощ</string>
+    <string name="uv_post_a_comment">Публикуване на коментар</string>
+    <string name="uv_post_an_idea">Публикуване на идея</string>
+    <string name="uv_post_comment">Публикуване на коментар</string>
+    <string name="uv_post_idea_continue_button">Все още искам да публикувам идеята си</string>
+    <string name="uv_posted_by_format">Публикувана от %1$s на %2$s</string>
+    <string name="uv_powered_by_uservoice">Захранено от UserVoice</string>
+    <string name="uv_ranked">Заема място %1$s</string>
+    <string name="uv_remove_votes">Премахване на гласове</string>
+    <string name="uv_select_none">(няма)</string>
+    <string name="uv_select_one">Изберете едно</string>
+    <string name="uv_send_message">Изпращане на съобщение</string>
+    <string name="uv_signin_dialog_ok">Вход</string>
+    <string name="uv_signin_dialog_title">Вход</string>
+    <string name="uv_status_format">Статус: %1$s</string>
+    <string name="uv_submit_idea">Изпращане на идея</string>
+    <string name="uv_subscribe">Абонамент</string>
+    <string name="uv_subscribe_dialog_title">Абониране за тази идея</string>
+    <string name="uv_suggestion_instant_answer_question">Полезна ли е тази статия?</string>
+    <string name="uv_thanks">Благодаря.</string>
+    <string name="uv_title_idea">Идея</string>
+    <string name="uv_unhelpful_article_message_question">Желаете ли да ни изпратите съобщение?</string>
+    <string name="uv_value">Стойност</string>
+    <string name="uv_very_yes">Yes! (Да!)</string>
+    <string name="uv_yes">Yes (Да)</string>
+    <string name="uv_your_email_address">Вашият имейл адрес</string>
+    <string name="uv_your_name">Вашето име</string>
+</resources>

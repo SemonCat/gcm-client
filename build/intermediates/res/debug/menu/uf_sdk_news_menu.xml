@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/uf_sdk_zenui_apps_item"
+        android:title="@string/uf_sdk_feedback_and_help"/>
+
+    <item android:id="@+id/uf_sdk_feedback_and_help_item"
+        android:title="@string/uf_sdk_feedback_and_help"/>
+
+    <item android:id="@+id/uf_sdk_about_item"
+        android:title="@string/uf_sdk_feedback_and_help"/>
+
+</menu><!-- From: file:/Users/SemonCat/Desktop/gcm-client/userFeedbackSDK/src/main/res/menu/uf_sdk_news_menu.xml --><!-- From: file:/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/exploded-aar/gcm-client/userFeedbackSDK/unspecified/res/menu/uf_sdk_news_menu.xml -->

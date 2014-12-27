@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/exploded-aar/gcm-client/userFeedbackSDK/unspecified/res/values-es/values.xml -->
+    <eat-comment/>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">A %1$s le gusta este tema</item>
+        <item quantity="other">A %1$s les gusta este tema</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">tema</item>
+        <item quantity="other">temas</item>
+    </plurals>
+    <plurals name="uv_articles">
+        <item quantity="one">artículo</item>
+        <item quantity="other">artículos</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">comentario</item>
+        <item quantity="other">comentarios</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="one">idea</item>
+        <item quantity="other">ideas</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s quiere esta idea</item>
+        <item quantity="other">%1$s quieren esta idea</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">persona</item>
+        <item quantity="other">personas</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">suscriptor</item>
+        <item quantity="other">suscriptores</item>
+    </plurals>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-es/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ir a la pantalla de inicio"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartir con %s"</string>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-es/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"Una aplicación necesita que Android Wear se actualice."</string>
+    <string msgid="3046420540094071256" name="common_android_wear_update_text">"Esta aplicación no se ejecutará hasta que actualices Android Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Actualizar Android Wear"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Habilitar servicios de Google Play"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"Esta aplicación no funcionará si no habilitas los servicios de Google Play."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Habilitar servicios de Google Play"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Solicitada por <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Descargar servicios de Google Play"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"Esta aplicación no se ejecutará si tu teléfono no tiene instalados los servicios de Google Play."</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"Esta aplicación no se ejecutará si tu tablet no tiene instalados los servicios de Google Play."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Descargar servicios de Google Play"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"La cuenta especificada no existe en este dispositivo. Selecciona otra cuenta."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Cuenta no válida"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Una aplicación requiere que se habiliten los servicios de Google Play."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Se necesita una conexión de datos para establecer conexión con los servicios de Google Play."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Error de red"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"Una aplicación requiere la instalación de servicios de Google Play."</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Una aplicación requiere una actualización de servicios de Google Play."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Error de servicios de Google Play"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Error desconocido relacionado con los servicios de Google Play"</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"Tu dispositivo no es compatible con los servicios de Google Play, de los cuales dependen tus aplicaciones. Para obtener asistencia, ponte en contacto el fabricante."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Servicios de Google Play"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Actualizar"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"Esta aplicación no se ejecutará si no actualizas los servicios de Google Play."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Actualizar servicios de Google Play"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Abrir en teléfono"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Iniciar sesión"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Iniciar sesión con Google"</string>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/exploded-aar/gcm-client/userFeedbackSDK/unspecified/res/values-es/values.xml -->
+    <eat-comment/>
+    <string name="uf_sdk_faq">P+F</string>
+    <string name="uf_sdk_feedback_and_help">Comentarios y ayuda</string>
+    <string name="uf_sdk_help">Ayuda</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">El borrador no se guardará. ¿Desea eliminarlo de todas formas?</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">¿Desea eliminar esta publicación?</string>
+    <string name="uf_sdk_msg_subscribe">La suscripción a las notificaciones del estado de los temas se le proporcionará por correo electrónico.</string>
+    <string name="uf_sdk_msg_subscribe_success">Suscripción correcta</string>
+    <string name="uf_sdk_msg_ticket_created">Sus comentarios se enviaron a ASUS correctamente.</string>
+    <string name="uf_sdk_msg_topic_created">Correctamente publicado</string>
+    <string name="uf_sdk_msg_unsubscribe">Anulación de suscripción correcta</string>
+    <string name="uf_sdk_name_hint">Escriba su nombre</string>
+    <string name="uf_sdk_network_error">No hay conexión a Internet. Compruebe la configuración de red.</string>
+    <string name="uf_sdk_publish_an_topic">Publicar nuevo tema</string>
+    <string name="uf_sdk_send_feedback">Enviar comentarios</string>
+    <string name="uf_sdk_submit_topic">Publicar</string>
+    <string name="uf_sdk_subscribe_dialog_title">Suscribirse a este tema</string>
+    <string name="uf_sdk_title_topic">Tema</string>
+    <string name="uf_sdk_topic">Tema</string>
+    <string name="uf_sdk_topic_description_heading">Descripción</string>
+    <string name="uf_sdk_topic_description_hint">Describa su tema detalladamente</string>
+    <string name="uf_sdk_topic_filter">TEMAS</string>
+    <string name="uf_sdk_topic_form_help">Cuando publique un tema en un foro de usuarios, otros usuarios podrán suscribirse a él y comentarlo. Cuando el equipo de desarrollo de ASUS responda a este tema, recibirá una notificación a través de correo electrónico.</string>
+    <string name="uf_sdk_topic_form_title">Publicar nuevo tema</string>
+    <string name="uf_sdk_topic_text_heading">Foro</string>
+    <string name="uf_sdk_topic_text_hint">Escriba el título de su tema…</string>
+    <string name="uf_sdk_topic_title">Título</string>
+    <string name="uf_sdk_unhelpful_article_message_question">¿Desea enviar un comentario al equipo de desarrollo de ASUS?</string>
+    <string name="uf_sdk_user_forum">Foro de usuarios</string>
+    <string name="uv_admin_response_format">Respuesta del administrador: %1$s</string>
+    <string name="uv_all_articles">Todos los artículos</string>
+    <string name="uv_all_results_filter">TODOS</string>
+    <string name="uv_android_sdk">SDK de Android</string>
+    <string name="uv_article">Artículo</string>
+    <string name="uv_article_browse_question">¿Fue este artículo útil?</string>
+    <string name="uv_article_instant_answer_question">¿Es este artículo útil?</string>
+    <string name="uv_articles_filter">ARTÍCULOS</string>
+    <string name="uv_cancel">Cancelar</string>
+    <string name="uv_category">Categoría</string>
+    <string name="uv_close">Cerrar</string>
+    <string name="uv_comment_hint">Escriba su comentario</string>
+    <string name="uv_confirm">Confirmar</string>
+    <string name="uv_contact_continue_button">Todavía quiero enviar un mensaje</string>
+    <string name="uv_contact_hint">Escriba su pregunta o comentario</string>
+    <string name="uv_contact_us">Contactar</string>
+    <string name="uv_display_name">Nombre de usuario</string>
+    <string name="uv_email_address">Dirección de correo electrónico</string>
+    <string name="uv_email_address_hint">su@correoelectrónico.com (obligatorio)</string>
+    <string name="uv_error">Error</string>
+    <string name="uv_failed_signin_error">El correo electrónico o la contraseña no son correctos.</string>
+    <string name="uv_feedback_forum">Foro de comentarios</string>
+    <string name="uv_forgot_password">Contraseña olvidada</string>
+    <string name="uv_helpful_article_message_question">¿Todavía desea enviar un mensaje?</string>
+    <string name="uv_i_want_this">¡Quiero esto!</string>
+    <string name="uv_idea">Idea</string>
+    <string name="uv_idea_description_heading">Describa su idea con más detalle</string>
+    <string name="uv_idea_description_hint">(opcional)</string>
+    <string name="uv_idea_form_help">Cuando exponga una idea en nuestro foro, otros podrán suscribirse a ella y hacer comentarios. Cuando responda a la idea, recibirá una notificación.</string>
+    <string name="uv_idea_form_title">Exponer una idea</string>
+    <string name="uv_idea_text_heading">Le recomiendo...</string>
+    <string name="uv_idea_text_hint">Escriba su idea...</string>
+    <string name="uv_ideas_filter">IDEAS</string>
+    <string name="uv_knowledge_base">Base de conocimientos</string>
+    <string name="uv_loading">Cargando…</string>
+    <string name="uv_matching_articles">Artículos coincidentes</string>
+    <string name="uv_matching_articles_and_ideas">Artículos e ideas coincidentes</string>
+    <string name="uv_matching_ideas">Ideas coincidentes</string>
+    <string name="uv_menu_search">Buscar</string>
+    <string name="uv_msg_bad_email_format">Escriba una dirección de correo electrónico válida.</string>
+    <string name="uv_msg_comment_posted">Su comentario se ha publicado</string>
+    <string name="uv_msg_confirm_discard_idea">¿Está seguro de que desea descartar su idea?</string>
+    <string name="uv_msg_confirm_discard_message">¿Está seguro de que desea descartar su mensaje?</string>
+    <string name="uv_msg_custom_fields_validation">Rellene todos los campos obligatorios.</string>
+    <string name="uv_msg_forgot_password">Correo electrónico para envío de contraseña olvidada</string>
+    <string name="uv_msg_idea_created">Su idea se ha creado</string>
+    <string name="uv_msg_subscribe">Le mantendremos informados sobre el progreso de esta idea.</string>
+    <string name="uv_msg_subscribe_success">Ha sido suscrito a esta idea.</string>
+    <string name="uv_msg_ticket_created">Su mensaje se ha enviado</string>
+    <string name="uv_msg_unsubscribe">Su suscripción a esta idea se ha anulado.</string>
+    <string name="uv_msg_user_identity_validation">Escriba su dirección de correo electrónico.</string>
+    <string name="uv_name_hint">“Anónimo”</string>
+    <string name="uv_network_error">Hubo un error al conectarse con UserVoice</string>
+    <string name="uv_nevermind">No importa</string>
+    <string name="uv_new_comment">Nuevo comentario</string>
+    <string name="uv_next">Siguiente</string>
+    <string name="uv_no">No</string>
+    <string name="uv_none_of_these_help">Nada de esto ayuda</string>
+    <string name="uv_password">Contraseña</string>
+    <string name="uv_password_dialog_title">Escriba su contraseña.</string>
+    <string name="uv_portal_title">Ayuda</string>
+    <string name="uv_post_a_comment">Exponer un comentario</string>
+    <string name="uv_post_an_idea">Exponer una idea</string>
+    <string name="uv_post_comment">Exponer comentario</string>
+    <string name="uv_post_idea_continue_button">Todavía quiero exponer mi idea</string>
+    <string name="uv_posted_by_format">Publicado por %1$s el %2$s</string>
+    <string name="uv_powered_by_uservoice">Diseñado por UserVoice</string>
+    <string name="uv_ranked">%1$s clasificado</string>
+    <string name="uv_remove_votes">Quitar votos</string>
+    <string name="uv_select_none">(ninguno)</string>
+    <string name="uv_select_one">Seleccionar uno</string>
+    <string name="uv_send_message">Enviar mensaje</string>
+    <string name="uv_signin_dialog_ok">Iniciar sesión</string>
+    <string name="uv_signin_dialog_title">Iniciar sesión</string>
+    <string name="uv_status_format">Estado: %1$s</string>
+    <string name="uv_submit_idea">Enviar idea</string>
+    <string name="uv_subscribe">Suscribirse</string>
+    <string name="uv_subscribe_dialog_title">Suscribirse a esta idea</string>
+    <string name="uv_suggestion_instant_answer_question">¿Es esta idea útil?</string>
+    <string name="uv_thanks">¡Gracias!</string>
+    <string name="uv_title_idea">Idea</string>
+    <string name="uv_unhelpful_article_message_question">¿Desea enviarnos un mensaje?</string>
+    <string name="uv_value">Valor</string>
+    <string name="uv_very_yes">¡Sí!</string>
+    <string name="uv_yes">Sí</string>
+    <string name="uv_your_email_address">Su dirección de correo electrónico</string>
+    <string name="uv_your_name">Su nombre</string>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-es/wallet_strings.xml -->
+    <eat-comment/>
+    <string name="wallet_buy_button_place_holder">Comprar con Google</string>
+</resources>

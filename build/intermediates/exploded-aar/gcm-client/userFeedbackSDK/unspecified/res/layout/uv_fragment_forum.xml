@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/forum_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/uf_card_background_color" >
+
+    <android.google.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/swipeContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <com.asus.feedbacksdk.ui.UListView
+            android:id="@android:id/list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:clipToPadding="false"
+            android:divider="@null"
+            android:dividerHeight="0dp"
+            android:listSelector="@android:color/transparent"
+            android:padding="5dp"
+            android:scrollbarStyle="outsideOverlay" />
+    </android.google.support.v4.widget.SwipeRefreshLayout>
+
+    <com.asus.feedbacksdk.ui.FloatingActionButton
+        android:id="@+id/button_floating_action"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:layout_margin="16dp"
+        android:src="?attr/menu_icon_content_new"
+        fab:fab_colorNormal="@color/uf_primary"
+        fab:fab_colorPressed="@color/uf_primary_pressed" />
+
+    <ProgressBar
+        android:id="@+id/ForumLoadingBar"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:visibility="gone" />
+
+</FrameLayout><!-- From: file:/Users/SemonCat/Desktop/gcm-client/userFeedbackSDK/src/main/res/layout/uv_fragment_forum.xml -->

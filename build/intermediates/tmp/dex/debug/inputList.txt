@@ -1,0 +1,17 @@
+/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/classes/debug
+/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-c8666efd39839f82a8f1aa719eb4f8fb1d80b832.jar
+/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.1.0-c42947d1e40ca01a8335b66175bc0c0ba8994561.jar
+/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/pre-dexed/debug/eventbus-2.2.1-4de6e7620db4d41d01ecadaea62b5e0cca74699d.jar
+/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/pre-dexed/debug/signpost-core-1.2.1.2-c0d0466c1bbe9db1501913ddcca788aa2e104f81.jar
+/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/pre-dexed/debug/okio-1.0.1-13f173254b8dba5be2ecbf45b1e9fab4d8eb9207.jar
+/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/pre-dexed/debug/retrofit-1.8.0-78936fb57f8a881fe84c607505c8ee798c6fe8cf.jar
+/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-b25788ba4e48538e7c732e3203fd049e4787ba83.jar
+/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/pre-dexed/debug/gson-2.3-09a613c73b498de2903ebc5298a73fb47008464e.jar
+/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/pre-dexed/debug/classes-4b602cd7a14ca062ac29761ba836e54ac91aee79.jar
+/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/pre-dexed/debug/okhttp-2.1.0-d4231f95041b29188984c4d6d3cbcc7e73b80425.jar
+/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/pre-dexed/debug/snappydb-0.5.0-953ff6d29bf42f39a9e8c9ed2daf007d27fa8545.jar
+/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/pre-dexed/debug/rxjava-1.0.0-072b48bdb964d85a9822867ea29ccc8892ecb8c6.jar
+/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/pre-dexed/debug/classes-f0856808cb2f81052819126f13038f1824690103.jar
+/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/pre-dexed/debug/classes-ceba322c27260065af110fed3e228389f031ba76.jar
+/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/pre-dexed/debug/UserFeedbackLib-ae2e62de362d3c50a0bf4a12963e38afeca2f7e5.jar
+/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/pre-dexed/debug/classes-cf4d1e05107e3b3e8b7f6a916a91b72487169ce7.jar

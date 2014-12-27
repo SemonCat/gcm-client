@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/userFeedbackSDK/src/main/res/values-fr/asus_strings.xml -->
+    <eat-comment/>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">%1$s aime ce sujet</item>
+        <item quantity="other">%1$s aiment ce sujet</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">sujet</item>
+        <item quantity="other">sujets</item>
+    </plurals>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/userFeedbackSDK/src/main/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <plurals name="uv_articles">
+        <item quantity="one">article</item>
+        <item quantity="other">articles</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">commentaire</item>
+        <item quantity="other">commentaires</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="one">id\u00e9e</item>
+        <item quantity="other">id\u00e9es</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s aime cette id\u00e9e</item>
+        <item quantity="other">%1$s aiment cette id\u00e9e</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">personne</item>
+        <item quantity="other">personnes</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">abonn\u00e9</item>
+        <item quantity="other">abonn\u00e9s</item>
+    </plurals>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/userFeedbackSDK/src/main/res/values-fr/asus_strings.xml -->
+    <eat-comment/>
+    <string name="uf_sdk_faq">FAQ</string>
+    <string name="uf_sdk_feedback_and_help">Commentaires et Aide</string>
+    <string name="uf_sdk_help">Aide</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">Votre brouillon ne sera pas sauvegard\u00e9. Souhaitez-vous tout de m\u00eame continuer ?</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">Supprimer le post ?</string>
+    <string name="uf_sdk_msg_subscribe">Les notifications vous seront envoy\u00e9es par email.</string>
+    <string name="uf_sdk_msg_subscribe_success">Abonnement r\u00e9ussi</string>
+    <string name="uf_sdk_msg_ticket_created">Vos suggestions ont bien \u00e9t\u00e9 envoy\u00e9es \u00e0 ASUS</string>
+    <string name="uf_sdk_msg_topic_created">Publication r\u00e9ussie</string>
+    <string name="uf_sdk_msg_unsubscribe">D\u00e9sabonnement r\u00e9ussi</string>
+    <string name="uf_sdk_name_hint">Nom</string>
+    <string name="uf_sdk_network_error">Erreur de connexion Internet. Veuillez v\u00e9rifier vos param\u00e8tres r\u00e9seau.</string>
+    <string name="uf_sdk_publish_an_topic">Nouveau sujet</string>
+    <string name="uf_sdk_send_feedback">Envoyer des commentaires	</string>
+    <string name="uf_sdk_submit_topic">Publier</string>
+    <string name="uf_sdk_subscribe_dialog_title">S\'abonner \u00e0 ce sujet</string>
+    <string name="uf_sdk_title_topic">Sujet</string>
+    <string name="uf_sdk_topic">Sujet</string>
+    <string name="uf_sdk_topic_description_heading">Description</string>
+    <string name="uf_sdk_topic_description_hint">D\u00e9crivez votre sujet en d\u00e9tails</string>
+    <string name="uf_sdk_topic_filter">SUJETS</string>
+    <string name="uf_sdk_topic_form_help">Lorsque vous publiez un sujet sur un forum, d\'autres utilisateurs seront en mesure d\'y souscrire et de publier des commentaires. Vous serez imm\u00e9diatement inform\u00e9 par email de la publication d\'une r\u00e9ponse.</string>
+    <string name="uf_sdk_topic_form_title">Nouveau sujet</string>
+    <string name="uf_sdk_topic_text_heading">Forum</string>
+    <string name="uf_sdk_topic_text_hint">Titre du sujet...</string>
+    <string name="uf_sdk_topic_title">Titre</string>
+    <string name="uf_sdk_unhelpful_article_message_question">Souhaitez-vous faire parvenir vos suggestions \u00e0 l\'\u00e9quipe de d\u00e9veloppement d\'ASUS ?</string>
+    <string name="uf_sdk_user_forum">Forum</string>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/userFeedbackSDK/src/main/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="uv_admin_response_format">R\u00e9ponse de l\'administrateur : %1$s</string>
+    <string name="uv_all_articles">Tous les articles</string>
+    <string name="uv_all_results_filter">TOUT</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article">Article</string>
+    <string name="uv_article_browse_question">Cet article vous a-t-il \u00e9t\u00e9 utile ?</string>
+    <string name="uv_article_instant_answer_question">Cet article vous a-t-il \u00e9t\u00e9 utile ?</string>
+    <string name="uv_articles_filter">ARTICLES</string>
+    <string name="uv_cancel">Annuler</string>
+    <string name="uv_category">Cat\u00e9gorie</string>
+    <string name="uv_close">Fermer</string>
+    <string name="uv_comment_hint">Entrez votre commentaire</string>
+    <string name="uv_confirm">Confirmer</string>
+    <string name="uv_contact_continue_button">Je souhaite publier mon message</string>
+    <string name="uv_contact_hint">Entrez votre question ou vos commentaires</string>
+    <string name="uv_contact_us">Nous contacter</string>
+    <string name="uv_display_name">Nom d\'utilisateur</string>
+    <string name="uv_email_address">Adresse email</string>
+    <string name="uv_email_address_hint">votre_adresse@email.com (requis)</string>
+    <string name="uv_error">Erreur</string>
+    <string name="uv_failed_signin_error">Adresse email ou mot de passe incorrect</string>
+    <string name="uv_feedback_forum">Forum</string>
+    <string name="uv_forgot_password">Mot de passe oubli\u00e9</string>
+    <string name="uv_helpful_article_message_question">Souhaitez-vous publier un message ?</string>
+    <string name="uv_i_want_this">J\'aime \u00e7a !</string>
+    <string name="uv_idea">Id\u00e9e</string>
+    <string name="uv_idea_description_heading">D\u00e9crivez votre id\u00e9e</string>
+    <string name="uv_idea_description_hint">(optionnel)</string>
+    <string name="uv_idea_form_help">Lorsque vous publiez une id\u00e9e sur notre forum, d\'autres personnes seront en mesure d\'y souscrire et d\'ajouter des commentaires. Vous serez imm\u00e9diatement inform\u00e9 de la publication d\'une r\u00e9ponse \u00e0 votre id\u00e9e.</string>
+    <string name="uv_idea_form_title">Publier une id\u00e9e</string>
+    <string name="uv_idea_text_heading">Je sugg\u00e8re de...</string>
+    <string name="uv_idea_text_hint">Entrez votre id\u00e9e...</string>
+    <string name="uv_ideas_filter">ID\u00c9ES</string>
+    <string name="uv_knowledge_base">Base de connaissances</string>
+    <string name="uv_loading">Chargement\u2026</string>
+    <string name="uv_matching_articles">Articles correspondants</string>
+    <string name="uv_matching_articles_and_ideas">Id\u00e9es et articles correspondants</string>
+    <string name="uv_matching_ideas">Id\u00e9es correspondantes</string>
+    <string name="uv_menu_search">Rechercher</string>
+    <string name="uv_msg_bad_email_format">Veuillez saisir une adresse email valide</string>
+    <string name="uv_msg_comment_posted">Votre commentaire a \u00e9t\u00e9 soumis</string>
+    <string name="uv_msg_confirm_discard_idea">Souhaitez-vous vraiment annuler la publication de cette id\u00e9e ?</string>
+    <string name="uv_msg_confirm_discard_message">Souhaitez-vous vraiment annuler la publication de ce message ?</string>
+    <string name="uv_msg_custom_fields_validation">Veuillez remplir les champs requis</string>
+    <string name="uv_msg_forgot_password">Email envoy\u00e9</string>
+    <string name="uv_msg_idea_created">Votre id\u00e9e a \u00e9t\u00e9 cr\u00e9\u00e9e</string>
+    <string name="uv_msg_subscribe">Nous vous tiendrons inform\u00e9 de la progression de cette id\u00e9e.</string>
+    <string name="uv_msg_subscribe_success">Vous vous \u00eates abonn\u00e9 \u00e0 cette id\u00e9e</string>
+    <string name="uv_msg_ticket_created">Votre message a \u00e9t\u00e9 envoy\u00e9</string>
+    <string name="uv_msg_unsubscribe">Vous vous \u00eates d\u00e9sabonn\u00e9 de cette id\u00e9e</string>
+    <string name="uv_msg_user_identity_validation">Veuillez entrer votre adresse email</string>
+    <string name="uv_name_hint">"Anonyme"</string>
+    <string name="uv_network_error">Un probl\u00e8me est survenu lors de la connexion \u00e0 UserVoice</string>
+    <string name="uv_nevermind">Ignorer</string>
+    <string name="uv_new_comment">Nouveau commentaire</string>
+    <string name="uv_next">Suivant</string>
+    <string name="uv_no">Non</string>
+    <string name="uv_none_of_these_help">Aucune aide appropri\u00e9e</string>
+    <string name="uv_password">Mot de passe</string>
+    <string name="uv_password_dialog_title">Veuillez entrer votre mot de passe</string>
+    <string name="uv_portal_title">Aide</string>
+    <string name="uv_post_a_comment">Publier un commentaire</string>
+    <string name="uv_post_an_idea">Publier une id\u00e9e</string>
+    <string name="uv_post_comment">Poster un commentaire</string>
+    <string name="uv_post_idea_continue_button">Je souhaite publier mon id\u00e9e</string>
+    <string name="uv_posted_by_format">Publi\u00e9 par %1$s le %2$s</string>
+    <string name="uv_powered_by_uservoice">Optimis\u00e9 par UserVoice</string>
+    <string name="uv_ranked">Class\u00e9</string>
+    <string name="uv_remove_votes">Supprimer les votes</string>
+    <string name="uv_select_none">"Aucun(e)"</string>
+    <string name="uv_select_one">S\u00e9lection</string>
+    <string name="uv_send_message">Envoyer un message</string>
+    <string name="uv_signin_dialog_ok">Connexion</string>
+    <string name="uv_signin_dialog_title">Connexion</string>
+    <string name="uv_status_format">\u00c9tat : %1$s</string>
+    <string name="uv_submit_idea">Soumettre une id\u00e9e</string>
+    <string name="uv_subscribe">S\'abonner</string>
+    <string name="uv_subscribe_dialog_title">S\'abonner \u00e0 cette id\u00e9e</string>
+    <string name="uv_suggestion_instant_answer_question">Cette id\u00e9e vous a-t-elle \u00e9t\u00e9 utile ?</string>
+    <string name="uv_thanks">Merci !</string>
+    <string name="uv_title_idea">Id\u00e9e</string>
+    <string name="uv_unhelpful_article_message_question">Souhaitez-vous nous envoyer un message ?</string>
+    <string name="uv_value">Valeur</string>
+    <string name="uv_very_yes">Oui !</string>
+    <string name="uv_yes">Oui</string>
+    <string name="uv_your_email_address">Votre adresse email</string>
+    <string name="uv_your_name">Votre nom</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+    android:hint="@string/uf_sdk_search_hint"
+    android:label="@string/uf_sdk_search_hint"
+    android:imeOptions="actionDone"
+    android:voiceSearchMode="showVoiceSearchButton|launchRecognizer" />
+<!-- From: file:/Users/SemonCat/Desktop/gcm-client/userFeedbackSDK/src/main/res/xml/uf_sdk_searchable.xml --><!-- From: file:/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/exploded-aar/gcm-client/userFeedbackSDK/unspecified/res/xml/uf_sdk_searchable.xml -->

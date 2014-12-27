@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/userFeedbackSDK/src/main/res/values-cs/asus_strings.xml -->
+    <eat-comment/>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">%1$s se libí toto téma</item>
+        <item quantity="other">%1$s se libí toto téma</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">téma</item>
+        <item quantity="other">témat</item>
+    </plurals>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/userFeedbackSDK/src/main/res/values-cs/strings.xml -->
+    <eat-comment/>
+    <plurals name="uv_articles">
+        <item quantity="one">článek</item>
+        <item quantity="other">článků</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">comment</item>
+        <item quantity="other">komentářů</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="one">nápad</item>
+        <item quantity="other">nápadů</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s chce tento nápad</item>
+        <item quantity="other">%1$s chtějí tento nápad</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">osoba</item>
+        <item quantity="other">lidé</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">odběratel</item>
+        <item quantity="other">odběratelů</item>
+    </plurals>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/userFeedbackSDK/src/main/res/values-cs/asus_strings.xml -->
+    <eat-comment/>
+    <string name="uf_sdk_faq">FAQ</string>
+    <string name="uf_sdk_feedback_and_help">Zpětná vazba a nápověda</string>
+    <string name="uf_sdk_help">Nápověda</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">Váš koncept nebude uložen Chcete jej přesto odstranit?</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">Odstranit příspěvek?</string>
+    <string name="uf_sdk_msg_subscribe">Přihlášení k odběru oznámení o stavu tématu vám bude doručeno e-mailem.</string>
+    <string name="uf_sdk_msg_subscribe_success">Přihlášení k odběru bylo úspěšné</string>
+    <string name="uf_sdk_msg_ticket_created">Váš názor byl úspěšně odeslán společnosti ASUS</string>
+    <string name="uf_sdk_msg_topic_created">Úspěšně zveřejněno</string>
+    <string name="uf_sdk_msg_unsubscribe">Zrušení přihlášení k odběru bylo úspěšné</string>
+    <string name="uf_sdk_name_hint">Zadejte vaše jméno</string>
+    <string name="uf_sdk_network_error">Žádné připojení k Internetu, prosím zkontrolujte nastavení vaší sítě.</string>
+    <string name="uf_sdk_publish_an_topic">Zveřejnit nové téma</string>
+    <string name="uf_sdk_send_feedback">Odeslat zpětnou vazbu</string>
+    <string name="uf_sdk_submit_topic">Zveřejnit</string>
+    <string name="uf_sdk_subscribe_dialog_title">Přihlásit se k odběru tohoto tématu</string>
+    <string name="uf_sdk_title_topic">Téma</string>
+    <string name="uf_sdk_topic">Téma</string>
+    <string name="uf_sdk_topic_description_heading">Popis</string>
+    <string name="uf_sdk_topic_description_hint">Popište podrobně vaše téma</string>
+    <string name="uf_sdk_topic_filter">TÉMATA</string>
+    <string name="uf_sdk_topic_form_help">Po zveřejnění tématu na uživatelském fóru se mohou ostatní uživatelé přihlásit k odběru tématu a komentovat jej. Když tým vývojářů ASUS odpoví na vaše téma, budete informováni e-mailem.</string>
+    <string name="uf_sdk_topic_form_title">Zveřejnit nové téma</string>
+    <string name="uf_sdk_topic_text_heading">Fórum</string>
+    <string name="uf_sdk_topic_text_hint">Zapište název vašeho tématu…</string>
+    <string name="uf_sdk_topic_title">Titul</string>
+    <string name="uf_sdk_unhelpful_article_message_question">Chcete odeslat názor týmu vývojářů ASUS?</string>
+    <string name="uf_sdk_user_forum">Uživatelské fórum</string>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/userFeedbackSDK/src/main/res/values-cs/strings.xml -->
+    <eat-comment/>
+    <string name="uv_admin_response_format">Odpověď správce: %1$s</string>
+    <string name="uv_all_articles">Všechny články</string>
+    <string name="uv_all_results_filter">VŠE</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article">Článek</string>
+    <string name="uv_article_browse_question">Byl tento článek užitečný?</string>
+    <string name="uv_article_instant_answer_question">Je tento článek užitečný?</string>
+    <string name="uv_articles_filter">ČLÁNKY</string>
+    <string name="uv_cancel">Zrušit</string>
+    <string name="uv_category">Kategorie</string>
+    <string name="uv_close">Zavřít</string>
+    <string name="uv_comment_hint">Vložte váš komentář</string>
+    <string name="uv_confirm">Potvrdit</string>
+    <string name="uv_contact_continue_button">Opravdu chci odeslat zprávu</string>
+    <string name="uv_contact_hint">Zadejte váš dotaz nebo názor</string>
+    <string name="uv_contact_us">Kontaktujte nás</string>
+    <string name="uv_display_name">Uživatelské jméno</string>
+    <string name="uv_email_address">E-mailová adresa</string>
+    <string name="uv_email_address_hint">vas@email.com (povinné)</string>
+    <string name="uv_error">Chyba</string>
+    <string name="uv_failed_signin_error">Nesprávný e-mail nebo heslo</string>
+    <string name="uv_feedback_forum">Váš názor na fórum</string>
+    <string name="uv_forgot_password">Zapomenuté heslo</string>
+    <string name="uv_helpful_article_message_question">Opravdu chcete odeslat zprávu?</string>
+    <string name="uv_i_want_this">To chci!</string>
+    <string name="uv_idea">Nápad</string>
+    <string name="uv_idea_description_heading">Popište podrobněji váš nápad</string>
+    <string name="uv_idea_description_hint">(volitelně)</string>
+    <string name="uv_idea_form_help">Když zveřejníte nápad na našem fóru, mohou se ostatní přihlásit k jeho odběru a zveřejňovat komentáře. Když na tento nápad odpovíme, budete informováni.</string>
+    <string name="uv_idea_form_title">Zveřejnit nápad</string>
+    <string name="uv_idea_text_heading">Doporučuji vám…</string>
+    <string name="uv_idea_text_hint">Zadejte váš nápad…</string>
+    <string name="uv_ideas_filter">NÁPADY</string>
+    <string name="uv_knowledge_base">Databáze znalostí</string>
+    <string name="uv_loading">Načítání…</string>
+    <string name="uv_matching_articles">Shodné články</string>
+    <string name="uv_matching_articles_and_ideas">Shodné články a nápady</string>
+    <string name="uv_matching_ideas">Shodné nápady</string>
+    <string name="uv_menu_search">Hledat</string>
+    <string name="uv_msg_bad_email_format">Prosím zadejte platnou e-mailovou adresu.</string>
+    <string name="uv_msg_comment_posted">Váš komentář byl zveřejněn</string>
+    <string name="uv_msg_confirm_discard_idea">Opravdu chcete zlikvidovat váš nápad?</string>
+    <string name="uv_msg_confirm_discard_message">Opravdu chcete zlikvidovat vaši zprávu?</string>
+    <string name="uv_msg_custom_fields_validation">Prosím vyplňte všechna požadovaná pole.</string>
+    <string name="uv_msg_forgot_password">Byl odeslán e-mail pro zapomenuté heslo</string>
+    <string name="uv_msg_idea_created">Váš nápad byl vytvořen</string>
+    <string name="uv_msg_subscribe">Budeme vás informovat o vývoji vašeho nápadu.</string>
+    <string name="uv_msg_subscribe_success">Přihlásili jste se k odběru tohoto nápadu.</string>
+    <string name="uv_msg_ticket_created">Vaše zpráva byla odeslána</string>
+    <string name="uv_msg_unsubscribe">Zrušili jste přihlášení k odběru tohoto nápadu.</string>
+    <string name="uv_msg_user_identity_validation">Prosím zadejte vaši e-mailovou adresu</string>
+    <string name="uv_name_hint">“Anonym”</string>
+    <string name="uv_network_error">Při připojování k UserVoice došlo k chybě</string>
+    <string name="uv_nevermind">Nevadí</string>
+    <string name="uv_new_comment">Nový komentář</string>
+    <string name="uv_next">Další</string>
+    <string name="uv_no">Ne</string>
+    <string name="uv_none_of_these_help">Žádný z těchto nepomohl</string>
+    <string name="uv_password">Heslo</string>
+    <string name="uv_password_dialog_title">Zadejte vaše heslo</string>
+    <string name="uv_portal_title">Nápověda</string>
+    <string name="uv_post_a_comment">Zveřejnit komentář</string>
+    <string name="uv_post_an_idea">Zveřejnit nápad</string>
+    <string name="uv_post_comment">Zveřejnit komentář</string>
+    <string name="uv_post_idea_continue_button">Opravdu chci zveřejnit svůj nápad</string>
+    <string name="uv_posted_by_format">Zveřejnil/a %1$s v %2$s</string>
+    <string name="uv_powered_by_uservoice">Využívá technologii UserVoice</string>
+    <string name="uv_ranked">Ohodnoceno %1$s</string>
+    <string name="uv_remove_votes">Odebrat hlasy</string>
+    <string name="uv_select_none">(žádné)</string>
+    <string name="uv_select_one">Vyberte jednu možnost</string>
+    <string name="uv_send_message">Poslat zprávu</string>
+    <string name="uv_signin_dialog_ok">Přihlásit</string>
+    <string name="uv_signin_dialog_title">Přihlásit</string>
+    <string name="uv_status_format">Stav: %1$s</string>
+    <string name="uv_submit_idea">Poskytnout nápad</string>
+    <string name="uv_subscribe">Přihlásit se k odběru</string>
+    <string name="uv_subscribe_dialog_title">Přihlásit se k odběru tohoto nápadu</string>
+    <string name="uv_suggestion_instant_answer_question">Je tento nápad užitečný?</string>
+    <string name="uv_thanks">Děkujeme!</string>
+    <string name="uv_title_idea">Nápad</string>
+    <string name="uv_unhelpful_article_message_question">Chcete, abychom odeslali zprávu?</string>
+    <string name="uv_value">Hodnota</string>
+    <string name="uv_very_yes">Ano!</string>
+    <string name="uv_yes">Ano</string>
+    <string name="uv_your_email_address">Vaše e-mailová adresa</string>
+    <string name="uv_your_name">Vaše jméno</string>
+</resources>

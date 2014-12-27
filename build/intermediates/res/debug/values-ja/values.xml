@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/exploded-aar/gcm-client/userFeedbackSDK/unspecified/res/values-ja/values.xml -->
+    <eat-comment/>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">%1$s \u304c\u3053\u306e\u30c8\u30d4\u30c3\u30af\u304c\u597d\u304d\u3060\u3068\u8a00\u3063\u3066\u3044\u307e\u3059\u3002</item>
+        <item quantity="other">%1$s \u304c\u3053\u306e\u30c8\u30d4\u30c3\u30af\u304c\u597d\u304d\u3060\u3068\u8a00\u3063\u3066\u3044\u307e\u3059\u3002</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">\u30c8\u30d4\u30c3\u30af</item>
+        <item quantity="other">\u30c8\u30d4\u30c3\u30af</item>
+    </plurals>
+    <plurals name="uv_articles">
+        <item quantity="one">\u4ef6\u306e\u8a18\u4e8b</item>
+        <item quantity="other">\u4ef6\u306e\u8a18\u4e8b</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">\u4ef6\u306e\u30b3\u30e1\u30f3\u30c8</item>
+        <item quantity="other">\u4ef6\u306e\u30b3\u30e1\u30f3\u30c8</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="one">\u4ef6\u306e\u30a2\u30a4\u30c7\u30a2</item>
+        <item quantity="other">\u4ef6\u306e\u30a2\u30a4\u30c7\u30a2</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s \u304c\u3053\u306e\u30a2\u30a4\u30c7\u30a2\u3092\u6b32\u3057\u304c\u3063\u3066\u3044\u307e\u3059\u3002</item>
+        <item quantity="other">%1$s \u304c\u3053\u306e\u30a2\u30a4\u30c7\u30a2\u3092\u6b32\u3057\u304c\u3063\u3066\u3044\u307e\u3059\u3002</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">\u4eba</item>
+        <item quantity="other">\u4eba</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">\u4eba\u306e\u52a0\u5165\u8005</item>
+        <item quantity="other">\u4eba\u306e\u52a0\u5165\u8005</item>
+    </plurals>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ja/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ホームへ移動"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s、%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s、%2$s、%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"上へ移動"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"その他のオプション"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完了"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"すべて表示"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"アプリの選択"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"検索キーワードを削除"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"検索キーワード"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"検索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"検索キーワードを送信"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"音声検索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"共有"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%sと共有"</string>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-ja/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"Android Wearアプリの更新が必要です。"</string>
+    <string msgid="3046420540094071256" name="common_android_wear_update_text">"Android Wearアプリを使用するにはアプリの更新が必要です。"</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Android Wearの更新"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Play開発者サービスの有効化"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"このアプリの実行には、Google Play開発者サービスの有効化が必要です。"</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Play開発者サービスの有効化"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"<ns1:g id="APP_NAME">%1$s</ns1:g>によるリクエスト"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Play開発者サービスの入手"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"このアプリの実行にはGoogle Play開発者サービスが必要ですが、お使いの携帯端末にはインストールされていません。"</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"このアプリの実行にはGoogle Play開発者サービスが必要ですが、お使いのタブレットにはインストールされていません。"</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Play開発者サービスの入手"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"指定したアカウントはこの端末上に存在しません。別のアカウントを選択してください。"</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"無効なアカウント"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"アプリではGoogle Play開発者サービスを有効にする必要があります"</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Google Play開発者サービスに接続するには、データ接続が必要です。"</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"ネットワークエラー"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"アプリではGoogle Play開発者サービスをインストールする必要があります"</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"アプリではGoogle Play開発者サービスを更新する必要があります"</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Google Play開発者サービスのエラー"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Google Play開発者サービスで原因不明の問題が発生しました。"</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"一部のアプリが使用しているGoogle Play開発者サービスは、お使いの端末ではサポートされていません。詳しくは、端末メーカーまでお問い合わせください。"</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Google Play開発者サービス"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"更新"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"このアプリの実行には、Google Play開発者サービスの更新が必要です。"</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Play開発者サービスの更新"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"端末で開く"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"ログイン"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Googleでログイン"</string>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/exploded-aar/gcm-client/userFeedbackSDK/unspecified/res/values-ja/values.xml -->
+    <eat-comment/>
+    <string name="uf_sdk_faq">FAQ</string>
+    <string name="uf_sdk_feedback_and_help">\u30d5\u30a3\u30fc\u30c9\u30d0\u30c3\u30af\uff06\u30d8\u30eb\u30d7</string>
+    <string name="uf_sdk_help">\u30d8\u30eb\u30d7</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">\u4e0b\u66f8\u304d\u306f\u4fdd\u5b58\u3055\u308c\u307e\u305b\u3093\u3002\u524a\u9664\u3057\u307e\u3059\u304b\uff1f</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">\u6295\u7a3f\u3092\u524a\u9664\u3057\u307e\u3059\u304b\uff1f</string>
+    <string name="uf_sdk_msg_subscribe">\u30c8\u30d4\u30c3\u30af\u306e\u72b6\u614b\u306e\u901a\u77e5\u306f\u3001\u30e1\u30fc\u30eb\u3067\u304a\u77e5\u3089\u305b\u3057\u307e\u3059\u3002</string>
+    <string name="uf_sdk_msg_subscribe_success">\u8cfc\u8aad\u6210\u529f</string>
+    <string name="uf_sdk_msg_ticket_created">\u8cb4\u91cd\u306a\u30d5\u30a3\u30fc\u30c9\u30d0\u30c3\u30af\u304cASUS\u306b\u9001\u4fe1\u3055\u308c\u307e\u3057\u305f\u3002</string>
+    <string name="uf_sdk_msg_topic_created">\u6b63\u5e38\u306b\u516c\u958b\u3055\u308c\u307e\u3057\u305f</string>
+    <string name="uf_sdk_msg_unsubscribe">\u8cfc\u8aad\u89e3\u9664\u306b\u6210\u529f</string>
+    <string name="uf_sdk_name_hint">\u540d\u524d\u3092\u5165\u529b\u3057\u307e\u3059</string>
+    <string name="uf_sdk_network_error">\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u63a5\u7d9a\u304c\u3042\u308a\u307e\u305b\u3093\u3002\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u8a2d\u5b9a\u3092\u78ba\u8a8d\u3057\u3066\u304f\u3060\u3055\u3044\u3002</string>
+    <string name="uf_sdk_publish_an_topic">\u65b0\u3057\u3044\u30c8\u30d4\u30c3\u30af\u3092\u516c\u958b</string>
+    <string name="uf_sdk_send_feedback">\u30d5\u30a3\u30fc\u30c9\u30d0\u30c3\u30af\u3092\u9001\u4fe1</string>
+    <string name="uf_sdk_submit_topic">\u516c\u958b</string>
+    <string name="uf_sdk_subscribe_dialog_title">\u3053\u306e\u30c8\u30d4\u30c3\u30af\u3092\u8cfc\u8aad\u3059\u308b</string>
+    <string name="uf_sdk_title_topic">\u30c8\u30d4\u30c3\u30af</string>
+    <string name="uf_sdk_topic">\u30c8\u30d4\u30c3\u30af</string>
+    <string name="uf_sdk_topic_description_heading">\u8aac\u660e</string>
+    <string name="uf_sdk_topic_description_hint">\u3042\u306a\u305f\u306e\u30c8\u30d4\u30c3\u30af\u3092\u8a73\u3057\u304f\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044</string>
+    <string name="uf_sdk_topic_filter">\u30c8\u30d4\u30c3\u30af</string>
+    <string name="uf_sdk_topic_form_help">\u30e6\u30fc\u30b6\u30fc\u30d5\u30a9\u30fc\u30e9\u30e0\u306b\u30c8\u30d4\u30c3\u30af\u3092\u516c\u958b\u3059\u308b\u3068\u3001\u4ed6\u306e\u30e6\u30fc\u30b6\u30fc\u304c\u8cfc\u8aad\u3057\u30b3\u30e1\u30f3\u30c8\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002 ASUS\u306e\u958b\u767a\u30c1\u30fc\u30e0\u304c\u30c8\u30d4\u30c3\u30af\u306b\u8fd4\u4fe1\u30fb\u5fdc\u7b54\u3059\u308b\u3068\u3001\u3042\u306a\u305f\u306f\u306b\u30e1\u30fc\u30eb\u3067\u901a\u77e5\u3055\u308c\u307e\u3059\u3002</string>
+    <string name="uf_sdk_topic_form_title">\u65b0\u3057\u3044\u30c8\u30d4\u30c3\u30af\u3092\u516c\u958b</string>
+    <string name="uf_sdk_topic_text_heading">\u30d5\u30a9\u30fc\u30e9\u30e0</string>
+    <string name="uf_sdk_topic_text_hint">\u3042\u306a\u305f\u306e\u30c8\u30d4\u30c3\u30af\u306e\u30bf\u30a4\u30c8\u30eb\u3092\u5165\u529b\u3057\u307e\u3059...</string>
+    <string name="uf_sdk_topic_title">\u30bf\u30a4\u30c8\u30eb</string>
+    <string name="uf_sdk_unhelpful_article_message_question">ASUS\u958b\u767a\u30c1\u30fc\u30e0\u306b\u30d5\u30a3\u30fc\u30c9\u30d0\u30c3\u30af\u3092\u9001\u308a\u307e\u3059\u304b\uff1f</string>
+    <string name="uf_sdk_user_forum">\u30e6\u30fc\u30b6\u30fc\u30d5\u30a9\u30fc\u30e9\u30e0</string>
+    <string name="uv_admin_response_format">\u7ba1\u7406\u8005\u306e\u5fdc\u7b54\uff1a %1$s</string>
+    <string name="uv_all_articles">\u3059\u3079\u3066\u306e\u8a18\u4e8b</string>
+    <string name="uv_all_results_filter">\u3059\u3079\u3066</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article">\u8a18\u4e8b</string>
+    <string name="uv_article_browse_question">\u3053\u306e\u8a18\u4e8b\u306f\u5f79\u306b\u7acb\u3061\u307e\u3057\u305f\u304b\uff1f</string>
+    <string name="uv_article_instant_answer_question">\u3053\u306e\u8a18\u4e8b\u306f\u53c2\u8003\u306b\u306a\u308a\u307e\u3057\u305f\u304b\uff1f</string>
+    <string name="uv_articles_filter">\u8a18\u4e8b</string>
+    <string name="uv_cancel">\u30ad\u30e3\u30f3\u30bb\u30eb</string>
+    <string name="uv_category">\u30ab\u30c6\u30b4\u30ea\u30fc</string>
+    <string name="uv_close">\u9589\u3058\u308b</string>
+    <string name="uv_comment_hint">\u30b3\u30e1\u30f3\u30c8\u3092\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044</string>
+    <string name="uv_confirm">\u78ba\u8a8d</string>
+    <string name="uv_contact_continue_button">\u79c1\u306f\u307e\u3060\u30e1\u30c3\u30bb\u30fc\u30b8\u3092\u9001\u308a\u305f\u3044\u3067\u3059</string>
+    <string name="uv_contact_hint">\u3054\u8cea\u554f\u30fb\u3054\u610f\u898b\u3092\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044</string>
+    <string name="uv_contact_us">\u304a\u554f\u3044\u5408\u308f\u305b</string>
+    <string name="uv_display_name">\u30e6\u30fc\u30b6\u30fc\u540d</string>
+    <string name="uv_email_address">\u30e1\u30fc\u30eb\u30a2\u30c9\u30ec\u30b9</string>
+    <string name="uv_email_address_hint">your@email.com (\u5fc5\u8981)</string>
+    <string name="uv_error">\u30a8\u30e9\u30fc</string>
+    <string name="uv_failed_signin_error">\u30e1\u30fc\u30eb\u307e\u305f\u306f\u30d1\u30b9\u30ef\u30fc\u30c9\u306b\u8aa4\u308a\u304c\u3042\u308a\u307e\u3059</string>
+    <string name="uv_feedback_forum">\u30d5\u30a3\u30fc\u30c9\u30d0\u30c3\u30af\u30d5\u30a9\u30fc\u30e9\u30e0</string>
+    <string name="uv_forgot_password">\u30d1\u30b9\u30ef\u30fc\u30c9\u3092\u5fd8\u308c\u305f</string>
+    <string name="uv_helpful_article_message_question">\u307e\u3060\u30e1\u30c3\u30bb\u30fc\u30b8\u3092\u9001\u4fe1\u3057\u307e\u3059\u304b\uff1f</string>
+    <string name="uv_i_want_this">\u79c1\u306f\u3053\u308c\u304c\u6b32\u3057\u3044\uff01</string>
+    <string name="uv_idea">\u30a2\u30a4\u30c7\u30a2</string>
+    <string name="uv_idea_description_heading">\u3042\u306a\u305f\u306e\u30a2\u30a4\u30c7\u30a2\u3092\u8a73\u3057\u304f\u8aac\u660e\u3057\u3066\u304f\u3060\u3055\u3044</string>
+    <string name="uv_idea_description_hint">\uff08\u30aa\u30d7\u30b7\u30e7\u30f3\uff09</string>
+    <string name="uv_idea_form_help">\u79c1\u305f\u3061\u306e\u30d5\u30a9\u30fc\u30e9\u30e0\u306b\u30a2\u30a4\u30c7\u30a2\u3092\u6295\u7a3f\u3059\u308b\u3068\u3001\u4ed6\u306e\u4eba\u306f\u305d\u308c\u3092\u8cfc\u8aad\u3057\u30b3\u30e1\u30f3\u30c8\u3067\u304d\u308b\u3088\u3046\u306b\u306a\u308a\u307e\u3059\u3002\u79c1\u305f\u3061\u304c\u30a2\u30a4\u30c7\u30a2\u306b\u8fd4\u4fe1\u30fb\u5fdc\u7b54\u3059\u308b\u3068\u3001\u3042\u306a\u305f\u306b\u901a\u77e5\u3055\u308c\u307e\u3059\u3002</string>
+    <string name="uv_idea_form_title">\u30a2\u30a4\u30c7\u30a2\u3092\u6295\u7a3f</string>
+    <string name="uv_idea_text_heading">No need to translate.</string>
+    <string name="uv_idea_text_hint">\u3042\u306a\u305f\u306e\u30a2\u30a4\u30c7\u30a2\u3092\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044...</string>
+    <string name="uv_ideas_filter">\u30a2\u30a4\u30c7\u30a2</string>
+    <string name="uv_knowledge_base">\u77e5\u8b58\u30d9\u30fc\u30b9</string>
+    <string name="uv_loading">\u8aad\u307f\u8fbc\u307f\u4e2d</string>
+    <string name="uv_matching_articles">\u8a18\u4e8b\u3092\u30de\u30c3\u30c1\u30f3\u30b0</string>
+    <string name="uv_matching_articles_and_ideas">\u8a18\u4e8b\u3084\u30a2\u30a4\u30c7\u30a2\u3092\u30de\u30c3\u30c1\u30f3\u30b0</string>
+    <string name="uv_matching_ideas">\u30a2\u30a4\u30c7\u30a2\u3092\u30de\u30c3\u30c1\u30f3\u30b0</string>
+    <string name="uv_menu_search">\u691c\u7d22</string>
+    <string name="uv_msg_bad_email_format">\u6709\u52b9\u306a\u30e1\u30fc\u30eb\u30a2\u30c9\u30ec\u30b9\u3092\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044\u3002</string>
+    <string name="uv_msg_comment_posted">\u3042\u306a\u305f\u306e\u30b3\u30e1\u30f3\u30c8\u304c\u6295\u7a3f\u3055\u308c\u307e\u3057\u305f</string>
+    <string name="uv_msg_confirm_discard_idea">\u3042\u306a\u305f\u306e\u30a2\u30a4\u30c7\u30a2\u3092\u7834\u68c4\u3057\u3066\u3082\u3088\u308d\u3057\u3044\u3067\u3059\u304b\uff1f</string>
+    <string name="uv_msg_confirm_discard_message">\u3042\u306a\u305f\u306e\u30e1\u30c3\u30bb\u30fc\u30b8\u3092\u7834\u68c4\u3057\u3066\u3082\u3088\u308d\u3057\u3044\u3067\u3059\u304b\uff1f</string>
+    <string name="uv_msg_custom_fields_validation">\u3059\u3079\u3066\u306e\u5fc5\u9808\u9805\u76ee\u3092\u3054\u8a18\u5165\u304f\u3060\u3055\u3044\u3002</string>
+    <string name="uv_msg_forgot_password">\u30d1\u30b9\u30ef\u30fc\u30c9\u3092\u5fd8\u308c\u305f\u5834\u5408\u306e\u78ba\u8a8d\u30e1\u30fc\u30eb\u304c\u9001\u4fe1\u3055\u308c\u307e\u3057\u305f</string>
+    <string name="uv_msg_idea_created">\u3042\u306a\u305f\u306e\u30a2\u30a4\u30c7\u30a2\u304c\u4f5c\u6210\u3055\u308c\u307e\u3057\u305f</string>
+    <string name="uv_msg_subscribe">\u79c1\u305f\u3061\u306f\u3001\u3053\u306e\u30a2\u30a4\u30c7\u30a2\u306e\u9032\u6357\u72b6\u6cc1\u3092\u3042\u306a\u305f\u3092\u5831\u544a\u3057\u307e\u3059\u3002</string>
+    <string name="uv_msg_subscribe_success">\u3042\u306a\u305f\u306f\u3053\u306e\u30a2\u30a4\u30c7\u30a2\u3092\u8cfc\u8aad\u3057\u3066\u3044\u307e\u3059\u3002</string>
+    <string name="uv_msg_ticket_created">\u30e1\u30c3\u30bb\u30fc\u30b8\u304c\u9001\u4fe1\u3055\u308c\u307e\u3057\u305f</string>
+    <string name="uv_msg_unsubscribe">\u3042\u306a\u305f\u306f\u3053\u306e\u30a2\u30a4\u30c7\u30a2\u306e\u8cfc\u8aad\u3092\u89e3\u9664\u3057\u307e\u3057\u305f\u3002</string>
+    <string name="uv_msg_user_identity_validation">\u30e1\u30fc\u30eb\u30a2\u30c9\u30ec\u30b9\u3092\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044\u3002</string>
+    <string name="uv_name_hint">\u300c\u533f\u540d\u300d</string>
+    <string name="uv_network_error">UserVoice\u3078\u306e\u63a5\u7d9a\u3067\u30a8\u30e9\u30fc\u304c\u767a\u751f\u3057\u307e\u3057\u305f</string>
+    <string name="uv_nevermind">No need to translate.</string>
+    <string name="uv_new_comment">\u65b0\u3057\u3044\u30b3\u30e1\u30f3\u30c8</string>
+    <string name="uv_next">\u6b21\u3078</string>
+    <string name="uv_no">\u3044\u3044\u3048</string>
+    <string name="uv_none_of_these_help">\u3053\u308c\u3089\u306e\u30d8\u30eb\u30d7\u306b\u8a72\u5f53\u306a\u3057</string>
+    <string name="uv_password">\u30d1\u30b9\u30ef\u30fc\u30c9</string>
+    <string name="uv_password_dialog_title">\u30d1\u30b9\u30ef\u30fc\u30c9\u3092\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044</string>
+    <string name="uv_portal_title">\u30d8\u30eb\u30d7</string>
+    <string name="uv_post_a_comment">\u30b3\u30e1\u30f3\u30c8\u3092\u6295\u7a3f</string>
+    <string name="uv_post_an_idea">\u30a2\u30a4\u30c7\u30a2\u3092\u6295\u7a3f</string>
+    <string name="uv_post_comment">\u30b3\u30e1\u30f3\u30c8\u3092\u6295\u7a3f</string>
+    <string name="uv_post_idea_continue_button">\u79c1\u306f\u307e\u3060\u30a2\u30a4\u30c7\u30a2\u3092\u6295\u7a3f\u3057\u305f\u3044\u3067\u3059\u3002</string>
+    <string name="uv_posted_by_format">\uff052 $ s\u306b\uff051 $ s\u306b\u3088\u308a\u6295\u7a3f\u3055\u308c\u307e\u3057\u305f</string>
+    <string name="uv_powered_by_uservoice">Powered by UserVoice</string>
+    <string name="uv_ranked">No need to translate.</string>
+    <string name="uv_remove_votes">\u6295\u7968\u3092\u524a\u9664\u3059\u308b</string>
+    <string name="uv_select_none">\uff08\u306a\u3057\uff09</string>
+    <string name="uv_select_one">1\u3064\u9078\u629e\u3057\u307e\u3059\u3002</string>
+    <string name="uv_send_message">\u30e1\u30c3\u30bb\u30fc\u30b8\u9001\u4fe1</string>
+    <string name="uv_signin_dialog_ok">\u30b5\u30a4\u30f3\u30a4\u30f3</string>
+    <string name="uv_signin_dialog_title">\u30b5\u30a4\u30f3\u30a4\u30f3</string>
+    <string name="uv_status_format">\u72b6\u614b: %1$s</string>
+    <string name="uv_submit_idea">\u30a2\u30a4\u30c7\u30a2\u3092\u63d0\u51fa</string>
+    <string name="uv_subscribe">\u8cfc\u8aad</string>
+    <string name="uv_subscribe_dialog_title">\u3053\u306e\u30a2\u30a4\u30c7\u30a2\u3092\u8cfc\u8aad</string>
+    <string name="uv_suggestion_instant_answer_question">\u3053\u306e\u30a2\u30a4\u30c7\u30a2\u306f\u53c2\u8003\u306b\u306a\u308a\u307e\u3057\u305f\u304b\uff1f</string>
+    <string name="uv_thanks">\u3042\u308a\u304c\u3068\u3046\uff01</string>
+    <string name="uv_title_idea">\u30a2\u30a4\u30c7\u30a2</string>
+    <string name="uv_unhelpful_article_message_question">\u79c1\u305f\u3061\u306b\u30e1\u30c3\u30bb\u30fc\u30b8\u3092\u9001\u4fe1\u3057\u307e\u3059\u304b\uff1f</string>
+    <string name="uv_value">\u5024</string>
+    <string name="uv_very_yes">\u306f\u3044!</string>
+    <string name="uv_yes">\u306f\u3044</string>
+    <string name="uv_your_email_address">\u3042\u306a\u305f\u306e\u30e1\u30fc\u30eb\u30a2\u30c9\u30ec\u30b9</string>
+    <string name="uv_your_name">\u3042\u306a\u305f\u306e\u540d\u524d</string>
+</resources>

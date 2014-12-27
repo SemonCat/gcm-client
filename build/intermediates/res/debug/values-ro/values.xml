@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/exploded-aar/gcm-client/userFeedbackSDK/unspecified/res/values-ro/values.xml -->
+    <eat-comment/>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">%1$s apreciază acest subiect</item>
+        <item quantity="other">%1$s apreciază acest subiect</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">subiect</item>
+        <item quantity="other">subiecte</item>
+    </plurals>
+    <plurals name="uv_articles">
+        <item quantity="one">articol</item>
+        <item quantity="other">articole</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">comentariu</item>
+        <item quantity="other">comentarii</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="one">idee</item>
+        <item quantity="other">idei</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s doreşte ideea</item>
+        <item quantity="other">%1$s doresc ideea</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">persoană</item>
+        <item quantity="other">persoane</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">abonat</item>
+        <item quantity="other">abonaţi</item>
+    </plurals>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ro/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigați la ecranul de pornire"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigați în sus"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mai multe opțiuni"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Terminat"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Afișați-le pe toate"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Alegeți o aplicaţie"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ștergeți interogarea"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Interogare de căutare"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Căutați"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Trimiteți interogarea"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Căutare vocală"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Trimiteți la"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Trimiteți la %s"</string>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-ro/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"O aplicație necesită actualizarea aplicației Android Wear."</string>
+    <string msgid="3046420540094071256" name="common_android_wear_update_text">"Această aplicație nu va rula dacă nu actualizați aplicația Android Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Actualizați Android Wear"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Activaţi Servicii Google Play"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"Această aplicaţie nu va funcţiona decât dacă activaţi Servicii Google Play."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Activaţi Servicii Google Play"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Solicitată de <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Obţineţi Servicii Google Play"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"Această aplicaţie nu poate rula fără Servicii Google Play, care lipsesc de pe telefon."</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"Această aplicaţie nu poate rula fără Servicii Google Play, care lipsesc de pe tabletă."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Descărcaţi Servicii Google Play"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"Contul menționat nu există pe acest dispozitiv. Alegeți alt cont."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Cont nevalid"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"O aplicație necesită activarea serviciilor Google Play."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Este necesară o conexiune de date pentru a vă conecta la serviciile Google Play."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Eroare de reţea"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"O aplicație necesită instalarea serviciilor Google Play."</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"O aplicație necesită o actualizare pentru serviciile Google Play."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Eroare a serviciilor Google Play"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Problemă necunoscută privind Servicii Google Play."</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"Gadgetul nu acceptă serviciile Google Play, pe care se bazează unele dintre aplicații. Pentru asistență, contactați producătorul gadgetului."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Servicii Google Play"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Actualizaţi"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"Această aplicaţie nu poate rula decât dacă actualizaţi Servicii Google Play."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Actualizaţi Servicii Google Play"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Deschideți pe telefon"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Conectați"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Conectați-vă cu Google"</string>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/exploded-aar/gcm-client/userFeedbackSDK/unspecified/res/values-ro/values.xml -->
+    <eat-comment/>
+    <string name="uf_sdk_faq">Întrebări frecvente</string>
+    <string name="uf_sdk_feedback_and_help">Feedback şi ajutor</string>
+    <string name="uf_sdk_help">Ajutor</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">Versiunea dvs. preliminară nu va fi salvată. Doriţi să ştergeţi chiar şi în aceste condiţii?</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">Ştergeţi postarea?</string>
+    <string name="uf_sdk_msg_subscribe">Notificările cu privire la starea subiectului vă vor fi transmise prin e-mail în baza abonamentului.</string>
+    <string name="uf_sdk_msg_subscribe_success">Abonare finalizată cu succes</string>
+    <string name="uf_sdk_msg_ticket_created">Feedbackul dvs. a fost trimis cu succes către ASUS</string>
+    <string name="uf_sdk_msg_topic_created">Publicare finalizată cu succes</string>
+    <string name="uf_sdk_msg_unsubscribe">Dezabonare finalizată cu succes</string>
+    <string name="uf_sdk_name_hint">Introduceţi numele dvs.</string>
+    <string name="uf_sdk_network_error">Nu aveţi o conexiune la reţea. Verificaţi setările reţelei.</string>
+    <string name="uf_sdk_publish_an_topic">Publicare subiect nou</string>
+    <string name="uf_sdk_send_feedback">Trimitere feedback</string>
+    <string name="uf_sdk_submit_topic">Publicare</string>
+    <string name="uf_sdk_subscribe_dialog_title">Abonaţi-vă la acest subiect</string>
+    <string name="uf_sdk_title_topic">Subiect</string>
+    <string name="uf_sdk_topic">Subiect</string>
+    <string name="uf_sdk_topic_description_heading">Descriere</string>
+    <string name="uf_sdk_topic_description_hint">Descrieţi subiectul în detaliu</string>
+    <string name="uf_sdk_topic_filter">SUBIECTE</string>
+    <string name="uf_sdk_topic_form_help">Atunci când publicaţi un subiect pe un forum de utilizatori, alţi utilizatori se vor putea abona la acest subiect şi pot crea comentarii. Veţi fi notificat prin e-mail atunci când echipa ASUS oferă un răspuns la subiect.</string>
+    <string name="uf_sdk_topic_form_title">Publicare subiect nou</string>
+    <string name="uf_sdk_topic_text_heading">Forum</string>
+    <string name="uf_sdk_topic_text_hint">Introduceţi titlul subiectului...</string>
+    <string name="uf_sdk_topic_title">Titlu</string>
+    <string name="uf_sdk_unhelpful_article_message_question">Doriţi să trimiteţi feedback echipei de dezvoltare ASUS?</string>
+    <string name="uf_sdk_user_forum">Forum utilizatori</string>
+    <string name="uv_admin_response_format">Răspuns administrator: %1$s</string>
+    <string name="uv_all_articles">Toate articolele</string>
+    <string name="uv_all_results_filter">TOATE</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article">Articol</string>
+    <string name="uv_article_browse_question">Aţi considerat util acest articol?</string>
+    <string name="uv_article_instant_answer_question">Consideraţi util acest articol?</string>
+    <string name="uv_articles_filter">ARTICOLE</string>
+    <string name="uv_cancel">Revocare</string>
+    <string name="uv_category">Categorie</string>
+    <string name="uv_close">Închidere</string>
+    <string name="uv_comment_hint">Introduceţi comentariul dvs.</string>
+    <string name="uv_confirm">Confirmare</string>
+    <string name="uv_contact_continue_button">Doresc în continuare să trimit un mesaj</string>
+    <string name="uv_contact_hint">Introduceţi întrebarea sau feedbackul</string>
+    <string name="uv_contact_us">Contactaţi-ne</string>
+    <string name="uv_display_name">Nume de utilizator</string>
+    <string name="uv_email_address">Adresă de e-mail</string>
+    <string name="uv_email_address_hint">nume@email.com (obligatoriu)</string>
+    <string name="uv_error">Eroare</string>
+    <string name="uv_failed_signin_error">E-mailul sau parola nu este corectă</string>
+    <string name="uv_feedback_forum">Forum pentru feedback</string>
+    <string name="uv_forgot_password">Am uitat parola</string>
+    <string name="uv_helpful_article_message_question">Doriţi în continuare să trimiteţi un mesaj?</string>
+    <string name="uv_i_want_this">Îmi place!</string>
+    <string name="uv_idea">Idee</string>
+    <string name="uv_idea_description_heading">Descrieţi ideea mai detaliat</string>
+    <string name="uv_idea_description_hint">(opţional)</string>
+    <string name="uv_idea_form_help">Atunci când postaţi o idee pe forumul nostru, alte persoane se vor putea abona la această idee şi pot crea comentarii. Veţi primi o notificare atunci când oferim un răspuns la ideea dvs.</string>
+    <string name="uv_idea_form_title">Postaţi o idee</string>
+    <string name="uv_idea_text_heading">Vă sugerez să...</string>
+    <string name="uv_idea_text_hint">Introduceţi ideea...</string>
+    <string name="uv_ideas_filter">IDEI</string>
+    <string name="uv_knowledge_base">Bază de cunoştinţe</string>
+    <string name="uv_loading">Se încarcă...</string>
+    <string name="uv_matching_articles">Se potrivesc articolele</string>
+    <string name="uv_matching_articles_and_ideas">Se potrivesc articolele şi ideile</string>
+    <string name="uv_matching_ideas">Se potrivesc ideile</string>
+    <string name="uv_menu_search">Căutare</string>
+    <string name="uv_msg_bad_email_format">Introduceţi o adresă de e-mail validă.</string>
+    <string name="uv_msg_comment_posted">Comentariul dvs. a fost postat</string>
+    <string name="uv_msg_confirm_discard_idea">Sigur doriţi să renunţaţi la ideea dvs.?</string>
+    <string name="uv_msg_confirm_discard_message">Sigur doriţi să renunţaţi la mesajul dvs.?</string>
+    <string name="uv_msg_custom_fields_validation">Completaţi toate câmpurile obligatorii.</string>
+    <string name="uv_msg_forgot_password">A fost trimis e-mailul pentru parola uitată</string>
+    <string name="uv_msg_idea_created">Ideea dvs. a fost creată</string>
+    <string name="uv_msg_subscribe">Vă vom ţine la curent cu evoluţia acestei idei.</string>
+    <string name="uv_msg_subscribe_success">Aţi fost abonat la această idee.</string>
+    <string name="uv_msg_ticket_created">Mesajul dvs. a fost trimis</string>
+    <string name="uv_msg_unsubscribe">Aţi fost dezabonat de la această idee.</string>
+    <string name="uv_msg_user_identity_validation">Introduceţi adresa dvs. de e-mail</string>
+    <string name="uv_name_hint">„Anonim”</string>
+    <string name="uv_network_error">A apărut o eroare în momentul conectării la UserVoice</string>
+    <string name="uv_nevermind">Nu contează</string>
+    <string name="uv_new_comment">Comentariu nou</string>
+    <string name="uv_next">Înainte</string>
+    <string name="uv_no">Nu</string>
+    <string name="uv_none_of_these_help">Niciuna din aceste informaţii nu este utilă</string>
+    <string name="uv_password">Parolă</string>
+    <string name="uv_password_dialog_title">Introduceţi parola</string>
+    <string name="uv_portal_title">Ajutor</string>
+    <string name="uv_post_a_comment">Postaţi un comentariu</string>
+    <string name="uv_post_an_idea">Postaţi o idee</string>
+    <string name="uv_post_comment">Postare comentariu</string>
+    <string name="uv_post_idea_continue_button">Doresc în continuare să postez ideea</string>
+    <string name="uv_posted_by_format">Postat de către %1$s pe %2$s</string>
+    <string name="uv_powered_by_uservoice">În colaborare cu UserVoice</string>
+    <string name="uv_ranked">Clasat pe locul %1$s</string>
+    <string name="uv_remove_votes">Eliminare voturi</string>
+    <string name="uv_select_none">(fără)</string>
+    <string name="uv_select_one">Selectaţi un articol</string>
+    <string name="uv_send_message">Trimitere mesaj</string>
+    <string name="uv_signin_dialog_ok">Conectare</string>
+    <string name="uv_signin_dialog_title">Conectare</string>
+    <string name="uv_status_format">Stare: %1$s</string>
+    <string name="uv_submit_idea">Trimitere idee</string>
+    <string name="uv_subscribe">Abonare</string>
+    <string name="uv_subscribe_dialog_title">Abonaţi-vă la această idee</string>
+    <string name="uv_suggestion_instant_answer_question">Consideraţi utilă această idee?</string>
+    <string name="uv_thanks">Mulţumesc!</string>
+    <string name="uv_title_idea">Idee</string>
+    <string name="uv_unhelpful_article_message_question">Doriţi să ne trimiteţi un mesaj?</string>
+    <string name="uv_value">Valoare</string>
+    <string name="uv_very_yes">Da!</string>
+    <string name="uv_yes">Da</string>
+    <string name="uv_your_email_address">Adresa dvs. de e-mail</string>
+    <string name="uv_your_name">Numele dvs.</string>
+</resources>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/exploded-aar/gcm-client/userFeedbackSDK/unspecified/res/values-cs/values.xml -->
+    <eat-comment/>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">%1$s se libí toto téma</item>
+        <item quantity="other">%1$s se libí toto téma</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">téma</item>
+        <item quantity="other">témat</item>
+    </plurals>
+    <plurals name="uv_articles">
+        <item quantity="one">článek</item>
+        <item quantity="other">článků</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">comment</item>
+        <item quantity="other">komentářů</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="one">nápad</item>
+        <item quantity="other">nápadů</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s chce tento nápad</item>
+        <item quantity="other">%1$s chtějí tento nápad</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">osoba</item>
+        <item quantity="other">lidé</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">odběratel</item>
+        <item quantity="other">odběratelů</item>
+    </plurals>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-cs/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Přejít na plochu"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s – %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s – %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Přejít nahoru"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Více možností"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Hotovo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Zobrazit vše"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Vybrat aplikaci"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Smazat dotaz"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Vyhledávací dotaz"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Hledat"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Odeslat dotaz"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hlasové vyhledávání"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Sdílet pomocí"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Sdílet pomocí %s"</string>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-cs/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"Některá aplikace vyžaduje aktualizaci aplikace Android Wear."</string>
+    <string msgid="3046420540094071256" name="common_android_wear_update_text">"Aplikace bude fungovat po aktualizaci aplikace Android Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Aktualizujte aplikaci Android Wear"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Aktivovat služby Google Play"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"Ke spuštění této aplikace je třeba aktivovat služby Google Play."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Aktivovat služby Google Play"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Požadováno aplikací <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Instalovat služby Google Play"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"Ke spuštění této aplikace jsou potřeba služby Google Play, které v telefonu nemáte."</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"Ke spuštění této aplikace jsou potřeba služby Google Play, které v tabletu nemáte."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Instalovat služby Google Play"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"Zadaný účet v tomto zařízení neexistuje. Zvolte prosím jiný účet."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Neplatný účet"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Aplikace vyžaduje aktivaci služeb Google Play."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Připojení ke službám Google Play vyžaduje datové připojení."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Chyba sítě"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"Aplikace vyžaduje instalaci služeb Google Play."</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Aplikace vyžaduje aktualizaci služeb Google Play."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Chyba služeb Google Play"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Nastal neznámý problém se službami Google Play."</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"Některé vaše aplikace vyžadují služby Google Play, které ve vašem zařízení nejsou podporovány. S žádostí o pomoc se prosím obraťte na výrobce."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Služby Google Play"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Aktualizovat"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"Ke spuštění této aplikace je třeba aktualizovat služby Google Play."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Aktualizace služeb Google Play"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Otevřít v telefonu"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Přihlásit se"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Přihlásit se účtem Google"</string>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/exploded-aar/gcm-client/userFeedbackSDK/unspecified/res/values-cs/values.xml -->
+    <eat-comment/>
+    <string name="uf_sdk_faq">FAQ</string>
+    <string name="uf_sdk_feedback_and_help">Zpětná vazba a nápověda</string>
+    <string name="uf_sdk_help">Nápověda</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">Váš koncept nebude uložen Chcete jej přesto odstranit?</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">Odstranit příspěvek?</string>
+    <string name="uf_sdk_msg_subscribe">Přihlášení k odběru oznámení o stavu tématu vám bude doručeno e-mailem.</string>
+    <string name="uf_sdk_msg_subscribe_success">Přihlášení k odběru bylo úspěšné</string>
+    <string name="uf_sdk_msg_ticket_created">Váš názor byl úspěšně odeslán společnosti ASUS</string>
+    <string name="uf_sdk_msg_topic_created">Úspěšně zveřejněno</string>
+    <string name="uf_sdk_msg_unsubscribe">Zrušení přihlášení k odběru bylo úspěšné</string>
+    <string name="uf_sdk_name_hint">Zadejte vaše jméno</string>
+    <string name="uf_sdk_network_error">Žádné připojení k Internetu, prosím zkontrolujte nastavení vaší sítě.</string>
+    <string name="uf_sdk_publish_an_topic">Zveřejnit nové téma</string>
+    <string name="uf_sdk_send_feedback">Odeslat zpětnou vazbu</string>
+    <string name="uf_sdk_submit_topic">Zveřejnit</string>
+    <string name="uf_sdk_subscribe_dialog_title">Přihlásit se k odběru tohoto tématu</string>
+    <string name="uf_sdk_title_topic">Téma</string>
+    <string name="uf_sdk_topic">Téma</string>
+    <string name="uf_sdk_topic_description_heading">Popis</string>
+    <string name="uf_sdk_topic_description_hint">Popište podrobně vaše téma</string>
+    <string name="uf_sdk_topic_filter">TÉMATA</string>
+    <string name="uf_sdk_topic_form_help">Po zveřejnění tématu na uživatelském fóru se mohou ostatní uživatelé přihlásit k odběru tématu a komentovat jej. Když tým vývojářů ASUS odpoví na vaše téma, budete informováni e-mailem.</string>
+    <string name="uf_sdk_topic_form_title">Zveřejnit nové téma</string>
+    <string name="uf_sdk_topic_text_heading">Fórum</string>
+    <string name="uf_sdk_topic_text_hint">Zapište název vašeho tématu…</string>
+    <string name="uf_sdk_topic_title">Titul</string>
+    <string name="uf_sdk_unhelpful_article_message_question">Chcete odeslat názor týmu vývojářů ASUS?</string>
+    <string name="uf_sdk_user_forum">Uživatelské fórum</string>
+    <string name="uv_admin_response_format">Odpověď správce: %1$s</string>
+    <string name="uv_all_articles">Všechny články</string>
+    <string name="uv_all_results_filter">VŠE</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article">Článek</string>
+    <string name="uv_article_browse_question">Byl tento článek užitečný?</string>
+    <string name="uv_article_instant_answer_question">Je tento článek užitečný?</string>
+    <string name="uv_articles_filter">ČLÁNKY</string>
+    <string name="uv_cancel">Zrušit</string>
+    <string name="uv_category">Kategorie</string>
+    <string name="uv_close">Zavřít</string>
+    <string name="uv_comment_hint">Vložte váš komentář</string>
+    <string name="uv_confirm">Potvrdit</string>
+    <string name="uv_contact_continue_button">Opravdu chci odeslat zprávu</string>
+    <string name="uv_contact_hint">Zadejte váš dotaz nebo názor</string>
+    <string name="uv_contact_us">Kontaktujte nás</string>
+    <string name="uv_display_name">Uživatelské jméno</string>
+    <string name="uv_email_address">E-mailová adresa</string>
+    <string name="uv_email_address_hint">vas@email.com (povinné)</string>
+    <string name="uv_error">Chyba</string>
+    <string name="uv_failed_signin_error">Nesprávný e-mail nebo heslo</string>
+    <string name="uv_feedback_forum">Váš názor na fórum</string>
+    <string name="uv_forgot_password">Zapomenuté heslo</string>
+    <string name="uv_helpful_article_message_question">Opravdu chcete odeslat zprávu?</string>
+    <string name="uv_i_want_this">To chci!</string>
+    <string name="uv_idea">Nápad</string>
+    <string name="uv_idea_description_heading">Popište podrobněji váš nápad</string>
+    <string name="uv_idea_description_hint">(volitelně)</string>
+    <string name="uv_idea_form_help">Když zveřejníte nápad na našem fóru, mohou se ostatní přihlásit k jeho odběru a zveřejňovat komentáře. Když na tento nápad odpovíme, budete informováni.</string>
+    <string name="uv_idea_form_title">Zveřejnit nápad</string>
+    <string name="uv_idea_text_heading">Doporučuji vám…</string>
+    <string name="uv_idea_text_hint">Zadejte váš nápad…</string>
+    <string name="uv_ideas_filter">NÁPADY</string>
+    <string name="uv_knowledge_base">Databáze znalostí</string>
+    <string name="uv_loading">Načítání…</string>
+    <string name="uv_matching_articles">Shodné články</string>
+    <string name="uv_matching_articles_and_ideas">Shodné články a nápady</string>
+    <string name="uv_matching_ideas">Shodné nápady</string>
+    <string name="uv_menu_search">Hledat</string>
+    <string name="uv_msg_bad_email_format">Prosím zadejte platnou e-mailovou adresu.</string>
+    <string name="uv_msg_comment_posted">Váš komentář byl zveřejněn</string>
+    <string name="uv_msg_confirm_discard_idea">Opravdu chcete zlikvidovat váš nápad?</string>
+    <string name="uv_msg_confirm_discard_message">Opravdu chcete zlikvidovat vaši zprávu?</string>
+    <string name="uv_msg_custom_fields_validation">Prosím vyplňte všechna požadovaná pole.</string>
+    <string name="uv_msg_forgot_password">Byl odeslán e-mail pro zapomenuté heslo</string>
+    <string name="uv_msg_idea_created">Váš nápad byl vytvořen</string>
+    <string name="uv_msg_subscribe">Budeme vás informovat o vývoji vašeho nápadu.</string>
+    <string name="uv_msg_subscribe_success">Přihlásili jste se k odběru tohoto nápadu.</string>
+    <string name="uv_msg_ticket_created">Vaše zpráva byla odeslána</string>
+    <string name="uv_msg_unsubscribe">Zrušili jste přihlášení k odběru tohoto nápadu.</string>
+    <string name="uv_msg_user_identity_validation">Prosím zadejte vaši e-mailovou adresu</string>
+    <string name="uv_name_hint">“Anonym”</string>
+    <string name="uv_network_error">Při připojování k UserVoice došlo k chybě</string>
+    <string name="uv_nevermind">Nevadí</string>
+    <string name="uv_new_comment">Nový komentář</string>
+    <string name="uv_next">Další</string>
+    <string name="uv_no">Ne</string>
+    <string name="uv_none_of_these_help">Žádný z těchto nepomohl</string>
+    <string name="uv_password">Heslo</string>
+    <string name="uv_password_dialog_title">Zadejte vaše heslo</string>
+    <string name="uv_portal_title">Nápověda</string>
+    <string name="uv_post_a_comment">Zveřejnit komentář</string>
+    <string name="uv_post_an_idea">Zveřejnit nápad</string>
+    <string name="uv_post_comment">Zveřejnit komentář</string>
+    <string name="uv_post_idea_continue_button">Opravdu chci zveřejnit svůj nápad</string>
+    <string name="uv_posted_by_format">Zveřejnil/a %1$s v %2$s</string>
+    <string name="uv_powered_by_uservoice">Využívá technologii UserVoice</string>
+    <string name="uv_ranked">Ohodnoceno %1$s</string>
+    <string name="uv_remove_votes">Odebrat hlasy</string>
+    <string name="uv_select_none">(žádné)</string>
+    <string name="uv_select_one">Vyberte jednu možnost</string>
+    <string name="uv_send_message">Poslat zprávu</string>
+    <string name="uv_signin_dialog_ok">Přihlásit</string>
+    <string name="uv_signin_dialog_title">Přihlásit</string>
+    <string name="uv_status_format">Stav: %1$s</string>
+    <string name="uv_submit_idea">Poskytnout nápad</string>
+    <string name="uv_subscribe">Přihlásit se k odběru</string>
+    <string name="uv_subscribe_dialog_title">Přihlásit se k odběru tohoto nápadu</string>
+    <string name="uv_suggestion_instant_answer_question">Je tento nápad užitečný?</string>
+    <string name="uv_thanks">Děkujeme!</string>
+    <string name="uv_title_idea">Nápad</string>
+    <string name="uv_unhelpful_article_message_question">Chcete, abychom odeslali zprávu?</string>
+    <string name="uv_value">Hodnota</string>
+    <string name="uv_very_yes">Ano!</string>
+    <string name="uv_yes">Ano</string>
+    <string name="uv_your_email_address">Vaše e-mailová adresa</string>
+    <string name="uv_your_name">Vaše jméno</string>
+</resources>

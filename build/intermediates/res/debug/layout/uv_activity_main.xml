@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/contacts_feedback"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="Click"
+        android:text="Test" >
+    </Button>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="ContactsClick"
+        android:text="Contacts" >
+    </Button>
+
+</LinearLayout><!-- From: file:/Users/SemonCat/Desktop/gcm-client/userFeedbackSDK/src/main/res/layout/uv_activity_main.xml --><!-- From: file:/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/exploded-aar/gcm-client/userFeedbackSDK/unspecified/res/layout/uv_activity_main.xml -->

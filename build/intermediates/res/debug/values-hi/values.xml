@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/exploded-aar/gcm-client/userFeedbackSDK/unspecified/res/values-hi/values.xml -->
+    <eat-comment/>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">%1$s ने इस विषय को पसंद किया</item>
+        <item quantity="other">%1$s ने इस विषय को पसंद किया</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">विषय</item>
+        <item quantity="other">विषय</item>
+    </plurals>
+    <plurals name="uv_articles">
+        <item quantity="one">लेख</item>
+        <item quantity="other">लेख</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">टिप्पणी</item>
+        <item quantity="other">टिप्पणियाँ</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="one">आइडिया</item>
+        <item quantity="other">आइडिया</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s यह विचार चाहता है</item>
+        <item quantity="other">%1$s यह विचार चाहते हैं</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">व्यक्ति</item>
+        <item quantity="other">व्यक्ति</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">सब्सक्राइबर</item>
+        <item quantity="other">सब्सक्राइबर</item>
+    </plurals>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-hi/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"मुखपृष्ठ पर नेविगेट करें"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"ऊपर नेविगेट करें"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"अधिक विकल्प"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"पूर्ण"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"सभी देखें"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"कोई एप्‍लिकेशन चुनें"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"क्‍वेरी साफ़ करें"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"खोज क्वेरी"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"खोजें"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"क्वेरी सबमिट करें"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"ध्वनि खोज"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"इसके द्वारा साझा करें"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s के साथ साझा करें"</string>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-hi/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"ऐप्लिकेशन को Android Wear ऐप्स में अपडेट की आवश्यकता है."</string>
+    <string msgid="3046420540094071256" name="common_android_wear_update_text">"यह ऐप्स तब तक नहीं चलेगा, जब तक कि आप Android Wear ऐप्स को अपडेट नहीं करते."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Android Wear अपडेट करें"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Google Play सेवाएं सक्षम करें"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"जब तक आप Google Play सेवाएं सक्षम नहीं करते, तब तक यह ऐप्स  कार्य नहीं करेगा."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Google Play सेवाएं सक्षम करें"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"<ns1:g id="APP_NAME">%1$s</ns1:g> के द्वारा अनुरोधित"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Google Play सेवाएं पाएं"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"यह ऐप्स  Google Play सेवाओं के बिना नहीं चलेगा, जो आपके फ़ोन में नहीं हैं."</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"यह ऐप्स  Google Play सेवाओं के बिना नहीं चलेगा, जो आपके टेबलेट में नहीं हैं."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Google Play सेवाएं पाएं"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"निर्दिष्ट खाता इस डिवाइस पर मौजूद नहीं है. कृपया कोई भिन्न खाता चुनें."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"अमान्य खाता"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"ऐप्लिकेशन के लिए Google Play सेवाएं सक्षम किए जाने की आवश्यकता है."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Google Play सेवाओं से कनेक्ट करने के लिए डेटा कनेक्शन की आवश्यकता है."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"नेटवर्क त्रुटि"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"ऐप्लिकेशन के लिए Google Play सेवाएं इंस्टॉल किए जाने की आवश्यकता है."</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"ऐप्लिकेशन के लिए Google Play सेवाओं में नई जानकारी की आवश्यकता है."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Google Play सेवाएं त्रुटि"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Google Play सेवाओं के साथ अज्ञात समस्या."</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"Google Play सेवाएं, जिन पर आपके कुछ ऐप्स  निर्भर करते हैं, आपके डिवाइस द्वारा समर्थित नहीं हैं. कृपया सहायता के लिए निर्माता से संपर्क करें."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Google Play सेवाएं"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"नई जानकारी पाएं"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"जब तक आप Google Play सेवाओं से नई जानकारी नहीं लेते हैं, तब तक यह ऐप्स  नहीं चलेगा."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Google Play सेवाएं से नई जानकारी"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"फ़ोन पर खोलें"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"प्रवेश करें"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Google से प्रवेश करें"</string>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/GcmClient/build/intermediates/exploded-aar/gcm-client/userFeedbackSDK/unspecified/res/values-hi/values.xml -->
+    <eat-comment/>
+    <string name="uf_sdk_faq">अक्सर पूछे जाने वाले प्रश्न</string>
+    <string name="uf_sdk_feedback_and_help">फ़ीडबैक एवं सहायता</string>
+    <string name="uf_sdk_help">सहायता</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">आपका ड्राफ़्ट नहीं सहेजा जाएगा। क्या आप इसे हटा देना चाहते हैं?</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">पोस्ट हटाएँ?</string>
+    <string name="uf_sdk_msg_subscribe">आपको विषय स्थिति सूचना सब्सक्रिप्शन ईमेल द्वारा भेज दिया जाएगा।</string>
+    <string name="uf_sdk_msg_subscribe_success">सब्सक्रिप्शन सफल</string>
+    <string name="uf_sdk_msg_ticket_created">आपका फ़ीडबैक ASUS को सफलतापूर्वक भेज दिया गया है</string>
+    <string name="uf_sdk_msg_topic_created">सफलतापूर्वक प्रकाशित</string>
+    <string name="uf_sdk_msg_unsubscribe">अनसब्सक्रिप्शन सफल</string>
+    <string name="uf_sdk_name_hint">अपना नाम दर्ज करें</string>
+    <string name="uf_sdk_network_error">कोई इंटरनेट कनेक्शन नहीं है, कृपया अपने नेटवर्क सेटिंग की जाँच करें।</string>
+    <string name="uf_sdk_publish_an_topic">नया विषय प्रकाशित करें</string>
+    <string name="uf_sdk_send_feedback">फ़ीडबैक भेजें</string>
+    <string name="uf_sdk_submit_topic">प्रकाशित करें</string>
+    <string name="uf_sdk_subscribe_dialog_title">इस विषय को सब्सक्राइब करें</string>
+    <string name="uf_sdk_title_topic">विषय</string>
+    <string name="uf_sdk_topic">विषय</string>
+    <string name="uf_sdk_topic_description_heading">विवरण</string>
+    <string name="uf_sdk_topic_description_hint">अपने विषय का विस्तार से वर्णन करें</string>
+    <string name="uf_sdk_topic_filter">विषय</string>
+    <string name="uf_sdk_topic_form_help">जब आप उपयोगकर्ता फोरम में कोई विषय प्रकाशित करते हैं, तो दूसरे लोग इसे सब्सक्राइब कर पाएँगे और इस पर टिप्पणी कर पाएँगे। जब ASUS डेवलपर टीम विषय पर प्रतिक्रिया देता है, तो आपको ईमेल के द्वारा सूचित कर दिया जाएगा।</string>
+    <string name="uf_sdk_topic_form_title">नया विषय प्रकाशित करें</string>
+    <string name="uf_sdk_topic_text_heading">फोरम</string>
+    <string name="uf_sdk_topic_text_hint">अपने विषय का शीर्षक टाइप करें…</string>
+    <string name="uf_sdk_topic_title">शीर्षक</string>
+    <string name="uf_sdk_unhelpful_article_message_question">क्या आप अपना फ़ीडबैक ASUS डेवलपर टीम को भेजना चाहेंगे?</string>
+    <string name="uf_sdk_user_forum">उपयोगकर्ता फ़ोरम</string>
+    <string name="uv_admin_response_format">व्यवस्थापक का जवाब: %1$s</string>
+    <string name="uv_all_articles">सभी लेख</string>
+    <string name="uv_all_results_filter">सभी</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article">लेख</string>
+    <string name="uv_article_browse_question">क्या यह लेख सहायक था?</string>
+    <string name="uv_article_instant_answer_question">क्या यह लेख सहायक है?</string>
+    <string name="uv_articles_filter">लेख</string>
+    <string name="uv_cancel">रद्द करें</string>
+    <string name="uv_category">श्रेणी</string>
+    <string name="uv_close">बंद करें</string>
+    <string name="uv_comment_hint">अपनी टिप्पणी दर्ज करें</string>
+    <string name="uv_confirm">पुष्टि करें</string>
+    <string name="uv_contact_continue_button">मैं अभी भी संदेश भेजना चाहता हूँ</string>
+    <string name="uv_contact_hint">अपना प्रश्न या फ़ीडबैक दर्ज करें</string>
+    <string name="uv_contact_us">हमें संपर्क करें</string>
+    <string name="uv_display_name">उपयोगकर्ता नाम</string>
+    <string name="uv_email_address">ईमेल पता</string>
+    <string name="uv_email_address_hint">your@email.com (आवश्यक)</string>
+    <string name="uv_error">त्रुटि</string>
+    <string name="uv_failed_signin_error">ईमेल या पासवर्ड सही नहीं है</string>
+    <string name="uv_feedback_forum">फ़ीडबैक फ़ोरम</string>
+    <string name="uv_forgot_password">पासवर्ड भूल गए</string>
+    <string name="uv_helpful_article_message_question">क्या आप अभी भी संदेश भेजना चाहते हैं?</string>
+    <string name="uv_i_want_this">मैं यह चाहता हूँ!</string>
+    <string name="uv_idea">आइडिया</string>
+    <string name="uv_idea_description_heading">अपने आइडिया का और अधिक विस्तार से वर्णन करें</string>
+    <string name="uv_idea_description_hint">(वैकल्पिक)</string>
+    <string name="uv_idea_form_help">जब आप अपने आइडिया हमारे फोरम में पोस्ट करते हैं, तो दूसरे लोग इसे सब्सक्राइब कर पाएँगे और टिप्पणियाँ कर सकेंगे। जब हम आइडिया पर प्रतिक्रिया देते हैं, तो आपको सूचित कर दिया जाएगा।</string>
+    <string name="uv_idea_form_title">आइडिया पोस्ट करें</string>
+    <string name="uv_idea_text_heading">मैं आपको सलाह देता हूँ…</string>
+    <string name="uv_idea_text_hint">अपना आइडिया दर्ज करें…</string>
+    <string name="uv_ideas_filter">आइडिया</string>
+    <string name="uv_knowledge_base">नॉलेज बेस</string>
+    <string name="uv_loading">लोड हो रहा है...</string>
+    <string name="uv_matching_articles">मेल खाने वाले लेख</string>
+    <string name="uv_matching_articles_and_ideas">मेल खाने वाले लेख और आइडिया</string>
+    <string name="uv_matching_ideas">मेल खाने वाले आइडिया</string>
+    <string name="uv_menu_search">खोजें</string>
+    <string name="uv_msg_bad_email_format">कृपया एक मान्य ईमेल पता दर्ज करें।</string>
+    <string name="uv_msg_comment_posted">आपकी टिप्पणी पोस्ट कर दी गई है</string>
+    <string name="uv_msg_confirm_discard_idea">क्या आप वाकई अपने आइडिया को ख़ारिज करना चाहते हैं?</string>
+    <string name="uv_msg_confirm_discard_message">क्या आप वाकई अपना संदेश ख़ारिज करना चाहते हैं?</string>
+    <string name="uv_msg_custom_fields_validation">कृपया सभी आवश्यक फ़ील्ड भरें।</string>
+    <string name="uv_msg_forgot_password">भूले पासवर्ड के लिए ईमेल प्रेषित</string>
+    <string name="uv_msg_idea_created">आपका आइडिया तैयार कर दिया गया है</string>
+    <string name="uv_msg_subscribe">हम इस आइडिया की प्रगति के बारे में आपको अपडेट करेंगे।</string>
+    <string name="uv_msg_subscribe_success">आपको इस आइडिया से सब्सक्राइब कर दिया गया है।</string>
+    <string name="uv_msg_ticket_created">आपका संदेश प्रेषित कर दिया गया है</string>
+    <string name="uv_msg_unsubscribe">आपको इस आइडिया से अनसब्सक्राइब कर दिया गया है।</string>
+    <string name="uv_msg_user_identity_validation">कृपया अपना ईमेल पता दर्ज करें</string>
+    <string name="uv_name_hint">“बेनाम”</string>
+    <string name="uv_network_error">UserVoice से कनेक्ट होने के दौरान एक त्रुटि हुई थी</string>
+    <string name="uv_nevermind">कोई बात नहीं</string>
+    <string name="uv_new_comment">नई टिप्पणी</string>
+    <string name="uv_next">अगला</string>
+    <string name="uv_no">नहीं</string>
+    <string name="uv_none_of_these_help">इनमें से कोई मददगार नहीं है</string>
+    <string name="uv_password">पासवर्ड</string>
+    <string name="uv_password_dialog_title">कृपया अपना पासवर्ड डालें</string>
+    <string name="uv_portal_title">सहायता</string>
+    <string name="uv_post_a_comment">टिप्पणी पोस्ट करें</string>
+    <string name="uv_post_an_idea">आइडिया पोस्ट करें</string>
+    <string name="uv_post_comment">टिप्पणी पोस्ट करें</string>
+    <string name="uv_post_idea_continue_button">मैं अभी भी अपना आइडिया पोस्ट करना चाहता हूँ</string>
+    <string name="uv_posted_by_format">%2$s पर %1$s द्वारा पोस्ट किया गया</string>
+    <string name="uv_powered_by_uservoice">UserVoice द्वारा संचालित</string>
+    <string name="uv_ranked">रैंक किए गए %1$s</string>
+    <string name="uv_remove_votes">वोट निकालें</string>
+    <string name="uv_select_none">(कोई नहीं)</string>
+    <string name="uv_select_one">एक चुनें</string>
+    <string name="uv_send_message">संदेश भेजें</string>
+    <string name="uv_signin_dialog_ok">साइन इन</string>
+    <string name="uv_signin_dialog_title">साइन इन</string>
+    <string name="uv_status_format">स्थिति: %1$s</string>
+    <string name="uv_submit_idea">आइडिया सबमिट करें</string>
+    <string name="uv_subscribe">सब्सक्राइब करें</string>
+    <string name="uv_subscribe_dialog_title">इस आइडिया को सब्सक्राइब करें</string>
+    <string name="uv_suggestion_instant_answer_question">क्या यह आइडिया सहायक है?</string>
+    <string name="uv_thanks">धन्यवाद!</string>
+    <string name="uv_title_idea">आइडिया</string>
+    <string name="uv_unhelpful_article_message_question">क्या आप हमें एक संदेश भेजना चाहेंगे?</string>
+    <string name="uv_value">मान</string>
+    <string name="uv_very_yes">हाँ!</string>
+    <string name="uv_yes">हाँ</string>
+    <string name="uv_your_email_address">आपका ईमेल पता</string>
+    <string name="uv_your_name">आपका नाम</string>
+</resources>

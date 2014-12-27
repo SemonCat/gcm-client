@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/userFeedbackSDK/src/main/res/values-ar/asus_strings.xml -->
+    <eat-comment/>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="one">%1$s يعجبه هذا الموضوع</item>
+        <item quantity="other">%1$s يعجبهم هذا الموضوع</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="one">الموضوع</item>
+        <item quantity="other">الموضوعات</item>
+    </plurals>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/userFeedbackSDK/src/main/res/values-ar/string.xml -->
+    <eat-comment/>
+    <plurals name="uv_articles">
+        <item quantity="one">المقالة</item>
+        <item quantity="other">المقالات</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">التعليق</item>
+        <item quantity="other">التعليقات</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="one">الفكرة</item>
+        <item quantity="other">الأفكار</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">يريد %1$s هذه الفكرة</item>
+        <item quantity="other">يريد %1$s هذه الفكرة</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">الشخص</item>
+        <item quantity="other">الأشخاص</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">المشترك</item>
+        <item quantity="other">المشتركون</item>
+    </plurals>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/userFeedbackSDK/src/main/res/values-ar/asus_strings.xml -->
+    <eat-comment/>
+    <string name="uf_sdk_faq">الأسئلة الشائعة</string>
+    <string name="uf_sdk_feedback_and_help">التعليقات والتعليمات</string>
+    <string name="uf_sdk_help">التعليمات</string>
+    <string name="uf_sdk_msg_confirm_discard_topic">لن يتم حفظ مسودتك. هل تريد الحذف على أي حال؟</string>
+    <string name="uf_sdk_msg_confirm_discard_topic_title">هل تريد حذف المنشور؟</string>
+    <string name="uf_sdk_msg_subscribe">سيتم تسليم الاشترك في إشعارات حالة الموضوع لك عبر البريد الإلكتروني.</string>
+    <string name="uf_sdk_msg_subscribe_success">تم الاشتراك بنجاح</string>
+    <string name="uf_sdk_msg_ticket_created">تم إرسال تعقيبك بنجاح إلى ASUS </string>
+    <string name="uf_sdk_msg_topic_created">تم النشر بنجاح</string>
+    <string name="uf_sdk_msg_unsubscribe">تم إلغاء الاشتراك بنجاح</string>
+    <string name="uf_sdk_name_hint">أدخل اسمك</string>
+    <string name="uf_sdk_network_error">إذا كان لا يوجد اتصال بالإنترنت, فيُرجَى التحقق من إعدادات الشبكة لديك.</string>
+    <string name="uf_sdk_publish_an_topic">نشر موضوع جديد</string>
+    <string name="uf_sdk_send_feedback">إرسال تعليق</string>
+    <string name="uf_sdk_submit_topic">نشر</string>
+    <string name="uf_sdk_subscribe_dialog_title">الاشتراك في هذا الموضوع</string>
+    <string name="uf_sdk_title_topic">الموضوع</string>
+    <string name="uf_sdk_topic">الموضوع</string>
+    <string name="uf_sdk_topic_description_heading">الوصف</string>
+    <string name="uf_sdk_topic_description_hint">صف موضوعك بالتفصيل</string>
+    <string name="uf_sdk_topic_filter">الموضوعات</string>
+    <string name="uf_sdk_topic_form_help">عندما تنشر موضوعك على منتدى المستخدم, سيتمكن المستخدمون الآخرون من المشاركة فيه والتعليق عليه. عندما يستجيب فريق تطوير ASUS لموضوعك, سيتم إعلامك عبر البريد الإلكتروني..</string>
+    <string name="uf_sdk_topic_form_title">نشر موضوع جديد</string>
+    <string name="uf_sdk_topic_text_heading">المنتدى</string>
+    <string name="uf_sdk_topic_text_hint">أكتب عنوان موضوعك...</string>
+    <string name="uf_sdk_topic_title">العنوان</string>
+    <string name="uf_sdk_unhelpful_article_message_question">هل تريد إرسال تعقيب إلى فريق تطوير ASUS؟ </string>
+    <string name="uf_sdk_user_forum">منتدى المستخدم</string>
+    <!-- From: file:/Users/SemonCat/Desktop/gcm-client/userFeedbackSDK/src/main/res/values-ar/string.xml -->
+    <eat-comment/>
+    <string name="uv_admin_response_format">إجابة المسؤول: %1$s</string>
+    <string name="uv_all_articles">كل المقالات</string>
+    <string name="uv_all_results_filter">الكل</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article">المقالة</string>
+    <string name="uv_article_browse_question">هل هذه المقالة كانت مفيدة؟</string>
+    <string name="uv_article_instant_answer_question">هل هذه المقالة مفيدة؟</string>
+    <string name="uv_articles_filter">المقالات</string>
+    <string name="uv_cancel">إلغاء</string>
+    <string name="uv_category">الفئة</string>
+    <string name="uv_close">إغلاق</string>
+    <string name="uv_comment_hint">أدخل تعليقك</string>
+    <string name="uv_confirm">تأكيد</string>
+    <string name="uv_contact_continue_button">لازلت أريد إرسال رسالة</string>
+    <string name="uv_contact_hint">أدخل سؤالك أو تعقيبك</string>
+    <string name="uv_contact_us">اتصل بنا</string>
+    <string name="uv_display_name">اسم المستخدم</string>
+    <string name="uv_email_address">عنوان البريد الإلكتروني</string>
+    <string name="uv_email_address_hint">your@email.com (مطلوب)</string>
+    <string name="uv_error">خطأ</string>
+    <string name="uv_failed_signin_error">البريد الإلكتروني أو كلمة المرور غير صحيحة</string>
+    <string name="uv_feedback_forum">منتدى التعقيبات</string>
+    <string name="uv_forgot_password">هل نسيت كلمة المرور؟</string>
+    <string name="uv_helpful_article_message_question">هل لازلت تريد إرسال رسالة؟</string>
+    <string name="uv_i_want_this">أريد ذلك!</string>
+    <string name="uv_idea">الفكرة</string>
+    <string name="uv_idea_description_heading">صف فكرتك بمزيد من التفاصيل</string>
+    <string name="uv_idea_description_hint">(اختياري)</string>
+    <string name="uv_idea_form_help">عندما تنشر فكرة على منتدانا, سيتمكن الآخرون من المشاركة فيها والتعليق عليها. عندما نستجيب للفكرة, سيتم إعلامك.</string>
+    <string name="uv_idea_form_title">نشر فكرة</string>
+    <string name="uv_idea_text_heading">اقترح عليك...</string>
+    <string name="uv_idea_text_hint">أدخل فكرتك...</string>
+    <string name="uv_ideas_filter">الأفكار</string>
+    <string name="uv_knowledge_base">قاعدة المعرفة</string>
+    <string name="uv_loading">جارٍ التحميل... </string>
+    <string name="uv_matching_articles">توفيق المقالات</string>
+    <string name="uv_matching_articles_and_ideas">توفيق المقالات والأفكار</string>
+    <string name="uv_matching_ideas">توفيق الأفكار</string>
+    <string name="uv_menu_search">Search (بحث)</string>
+    <string name="uv_msg_bad_email_format">يُرجَى إدخال عنوان بريد إلكتروني صالح.</string>
+    <string name="uv_msg_comment_posted">تم نشر تعليقك</string>
+    <string name="uv_msg_confirm_discard_idea">هل أنت متأكد أنك تريد حذف فكرتك؟</string>
+    <string name="uv_msg_confirm_discard_message">هل أنت متأكد أنك تريد حذف رسالتك؟</string>
+    <string name="uv_msg_custom_fields_validation">يُرجَى ملء كل الحقول المطلوبة.</string>
+    <string name="uv_msg_forgot_password">تم إرسال رسالة بريد إلكتروني بكلمة المرور المنسية</string>
+    <string name="uv_msg_idea_created">تم إنشاء فكرتك</string>
+    <string name="uv_msg_subscribe">سنفيدك بمستجدات تطور هذه الفكرة.</string>
+    <string name="uv_msg_subscribe_success">لقد اشتركت في هذه الفكرة.</string>
+    <string name="uv_msg_ticket_created">تم إرسال رسالتك</string>
+    <string name="uv_msg_unsubscribe">لقد ألغيت اشتراكك في هذه الفكرة.</string>
+    <string name="uv_msg_user_identity_validation">يُرجَى إدخال عنوان بريدك الإلكتروني</string>
+    <string name="uv_name_hint">"مجهول الهوية"</string>
+    <string name="uv_network_error">هناك خطأ في الاتصال بـ UserVoice </string>
+    <string name="uv_nevermind">لا عليك</string>
+    <string name="uv_new_comment">تعليق جديد</string>
+    <string name="uv_next">التالي</string>
+    <string name="uv_no">لا</string>
+    <string name="uv_none_of_these_help">لا شيء من ذلك يجدي</string>
+    <string name="uv_password">كلمة المرور</string>
+    <string name="uv_password_dialog_title">يُرجَى إدخال كلمة المرور الخاصة بك</string>
+    <string name="uv_portal_title">التعليمات</string>
+    <string name="uv_post_a_comment">نشر تعليق</string>
+    <string name="uv_post_an_idea">نشر فكرة</string>
+    <string name="uv_post_comment">نشر تعليق</string>
+    <string name="uv_post_idea_continue_button">لازلت أريد نشر فكرتي</string>
+    <string name="uv_posted_by_format">منشور من قِبل %1$s في %2$s</string>
+    <string name="uv_powered_by_uservoice">مدعوم بواسطة UserVoice</string>
+    <string name="uv_ranked">مصنف %1$s</string>
+    <string name="uv_remove_votes">إزالة الأصوات</string>
+    <string name="uv_select_none">(لا شيء)</string>
+    <string name="uv_select_one">اختيار واحد</string>
+    <string name="uv_send_message">إرسال رسالة</string>
+    <string name="uv_signin_dialog_ok">تسجيل الدخول</string>
+    <string name="uv_signin_dialog_title">تسجيل الدخول</string>
+    <string name="uv_status_format">الحالة: %1$s</string>
+    <string name="uv_submit_idea">إرسال الفكرة</string>
+    <string name="uv_subscribe">الاشتراك</string>
+    <string name="uv_subscribe_dialog_title">الاشتراك في هذه الفكرة</string>
+    <string name="uv_suggestion_instant_answer_question">هل هذه الفكرة مفيدة؟</string>
+    <string name="uv_thanks">شكرًا!</string>
+    <string name="uv_title_idea">الفكرة</string>
+    <string name="uv_unhelpful_article_message_question">هل تريد إرسال رسالة لنا؟</string>
+    <string name="uv_value">القيمة</string>
+    <string name="uv_very_yes">نعم!</string>
+    <string name="uv_yes">نعم</string>
+    <string name="uv_your_email_address">عنوان البريد الإلكتروني الخاص بك</string>
+    <string name="uv_your_name">اسمك</string>
+</resources>
