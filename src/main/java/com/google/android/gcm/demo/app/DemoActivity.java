@@ -50,6 +50,8 @@ import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.net.URI;
 import java.net.URLEncoder;
+import java.util.Locale;
+import java.util.TimeZone;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
@@ -287,7 +289,8 @@ public class DemoActivity extends Activity {
 
         try {
 
-            registerToUniqush(registrationId);
+            Log.d(TAG,"RegId:"+registrationId);
+            //registerToUniqush(registrationId);
 
             registerToPushd(registrationId);
 
@@ -325,18 +328,21 @@ public class DemoActivity extends Activity {
     }
 
     private boolean registerToPushd(String registrationId) throws IOException {
+        String host = "http://vps.semoncat.com/push";
+
         RequestBody formBody = new FormEncodingBuilder()
                 .add("proto", "gcm")
                 .add("token", registrationId)
-                .add("lang", "zh")
+                .add("lang", Locale.getDefault().toString())
+                .add("timezone", TimeZone.getDefault().getID())
                 .build();
 
-        String url = "http://140.128.101.214:5656/subscribers";
+        String url = host+"/subscribers";
 
         OkHttpClient client = new OkHttpClient();
 
         Request request = new Request.Builder()
-                .header("Authorization", getAuthHeader("SemonCat", "zoe80904"))
+                //.header("Authorization", getAuthHeader("SemonCat", "zoe80904"))
                 .url(url)
                 .post(formBody)
                 .build();
@@ -353,11 +359,11 @@ public class DemoActivity extends Activity {
                     .add("ignore_message", "0")
                     .build();
 
-            String subscriberUrl = "http://140.128.101.214:5656/subscriber/%s/subscriptions/zenui_help";
+            String subscriberUrl = host+"/subscriber/%s/subscriptions/zenui_help";
 
 
             Request subscriberRequest = new Request.Builder()
-                    .header("Authorization", getAuthHeader("SemonCat", "zoe80904"))
+                    //.header("Authorization", getAuthHeader("SemonCat", "zoe80904"))
                     .url(String.format(subscriberUrl, id))
                     .post(subscriberFormBody)
                     .build();
